@@ -25,5 +25,31 @@ Python 2.6.8
 $ pip install shadowsocks
 ```
 
+### Usage
+
+```
+ssserver -p 443 -k password -m aes-256-cfb
+```
+
+后台运行：
+
+```
+sudo ssserver -p 443 -k password -m aes-256-cfb --user nobody -d start
+```
+
+停止：
+
+```
+sudo ssserver -d stop
+```
+
+查看 log 文件：
+
+```
+sudo less /var/log/shadowsocks.log
+```
+
+查看帮助使用 `-h`. 配置文件 [Configuration](https://github.com/shadowsocks/shadowsocks/wiki/Configuration-via-Config-File) 在这里查看。
+
 
 ## 用户端
