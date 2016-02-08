@@ -4,8 +4,6 @@ ShadowSocks是用来科学上网的利器。
 
 ShadowSocks可以说是其中一把功能齐全的瑞士军刀。服务器端提供了各种版本，如Python、Nodejs、Go、C libev等等，安装配置过程极其简单。
 
-pip 和 python 使用包管理工具安装即可。
-
 ## 服务器端
 
 首先你需要有一个VPS。我用的是 DigitalOcean 的VPS。
@@ -13,6 +11,11 @@ pip 和 python 使用包管理工具安装即可。
 
 ```
 $ ssh user@128.199.xxx.xxx
+```
+pip 和 python 使用包管理工具安装即可: `apt-get`, `yum`, etc...
+
+```
+eg. $ apt-get install python-pip
 ```
 
 检查 python 的版本
@@ -49,7 +52,12 @@ sudo ssserver -d stop
 sudo less /var/log/shadowsocks.log
 ```
 
-查看帮助使用 `-h`. 配置文件 [Configuration](https://github.com/shadowsocks/shadowsocks/wiki/Configuration-via-Config-File) 在这里查看。
+查看帮助使用 `-h`. 参考配置文件 [Configuration](https://github.com/shadowsocks/shadowsocks/wiki/Configuration-via-Config-File) 在这里。
 
+p.s. 原版的服务器端 python 代码在Git 上被删除了，请查看备份[ziggear/shadowsocks](https://github.com/ziggear/shadowsocks)
 
-## 用户端
+## 客户端
+
+mac 上面直接使用 ShadowsocksX 就好了，在这里 [下载](https://shadowsocks.org/en/download/clients.html) 。
+
+p.s. 上面同样有其它端的配置。
