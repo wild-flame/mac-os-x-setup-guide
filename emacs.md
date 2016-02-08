@@ -14,19 +14,15 @@ Emacs 推荐使用 [spacemacs](https://github.com/syl20bnr/spacemacs) 作为基�
 
 - orgmode-mediawiki 
  
-    ```
-(defun dotspacemacs/user-config ()
-  "Configuration function for user code.
- This function is called at the very end of Spacemacs initialization after
-layers configuration. You are free to put any user code."
-;  (setq dotspacemacs-additional-packages '(ox-mediawiki))
+```
+(setq dotspacemacs-additional-packages '(ox-mediawiki))
   (add-to-list 'load-path "~/.emacs.d/custom/orgmode-mediawiki")
   (require 'ox-mediawiki)
   (add-to-list 'load-path "~/.emacs.d/private/local") 
   (require 'html-fold)
   (with-eval-after-load 'smartparens
     (show-smartparens-global-mode -1))
-    ```
+```
 
 - mobile-org
 ```
