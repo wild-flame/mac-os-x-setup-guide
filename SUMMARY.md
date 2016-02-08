@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Emacs](emacs.md)
 * [git](git.md)
+   * .gitignore
 * [Homebrew](homebrew.md)
 * [Latex](latex.md)
 * [Shadowsocks](shadowsocks.md)
