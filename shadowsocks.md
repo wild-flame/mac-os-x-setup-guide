@@ -60,4 +60,4 @@ p.s. 原版的服务器端 python 代码在Git 上被删除了，请查看备份
 
 mac 上面直接使用 ShadowsocksX 就好了，在这里 [下载](https://shadowsocks.org/en/download/clients.html) 。
 
-p.s. 上面同样有其它端的配置。
+p.s. 上面同样有iOS，Android，Windows 以及 Openwrt 下面的客户端可以找到。
