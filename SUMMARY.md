@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Emacs](emacs.md)
-* git
+* [git](git.md)
 * [Homebrew](homebrew.md)
 * [Latex](latex.md)
 * [Shadowsocks](shadowsocks.md)
