@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [Aria 2](aria_2.md)
 * [Emacs](emacs.md)
 * [git](git.md)
    * [.gitignore](gitignore.md)
@@ -8,5 +9,4 @@
 * [Latex](latex.md)
 * [Shadowsocks](shadowsocks.md)
 * [其它常用软件](Others.md)
-* [Aria 2](aria_2.md)
 
