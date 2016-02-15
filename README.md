@@ -6,28 +6,32 @@
 
 主要原则是简洁，并尽量遵循最佳实践。
 
+本书仍在持续更新 ing...
 
-# Summary
 
-
+# 目录
 
 * [Introduction](README.md)
+
+
+## 编辑器
 * [Emacs](emacs.md)
+* [git](git.md)
+
+## 软件安装以及下载
+* [Aria 2](aria_2.md)  *【施工中……】*
 * [Homebrew](homebrew.md)
+ 
+## 科研
 * [Latex](latex.md)
 * [Shadowsocks](shadowsocks.md)
+
+## 其他
+
 * [其它常用软件](Others.md)
-
-
-*施工中……*
-
-
 
 ---
 
-
-
 本书地址： https://wild-flame.gitbooks.io/mac-os-x-setup-guide/content/
 
-MIT License.
-
+MIT License
