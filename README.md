@@ -14,7 +14,7 @@
 * [Introduction](README.md)
 
 
-## 编辑器
+## 
 * [Emacs](emacs.md)
 * [git](git.md)
 
