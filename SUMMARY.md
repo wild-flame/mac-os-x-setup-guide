@@ -8,5 +8,5 @@
 * [Latex](latex.md)
 * [Shadowsocks](shadowsocks.md)
 * [其它常用软件](Others.md)
-* Aria 2
+* [Aria 2](aria_2.md)
 
