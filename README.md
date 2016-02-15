@@ -7,7 +7,6 @@
 主要原则是简洁，并尽量遵循最佳实践。
 
 
-
 # Summary
 
 
@@ -18,12 +17,17 @@
 * [Latex](latex.md)
 * [Shadowsocks](shadowsocks.md)
 * [其它常用软件](Others.md)
-* 施工中……
+
+
+*施工中……*
 
 
 
-# Books URL
+---
 
-https://wild-flame.gitbooks.io/mac-os-x-setup-guide/content/
 
+
+本书地址： https://wild-flame.gitbooks.io/mac-os-x-setup-guide/content/
+
+MIT License.
 
