@@ -14,9 +14,9 @@
 * [Introduction](README.md)
 
 
-## 
+## 代码
 * [Emacs](emacs.md)
-* [git](git.md)
+* [Git](git.md)
 
 ## 软件安装以及下载
 * [Aria 2](aria_2.md)  *【施工中……】*
