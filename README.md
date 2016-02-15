@@ -15,5 +15,8 @@
 * [Shadowsocks](shadowsocks.md)
 * [其它常用软件](Others.md)
 
+# Books URL
+
+https://wild-flame.gitbooks.io/mac-os-x-setup-guide/content/
 
 
