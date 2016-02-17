@@ -19,6 +19,9 @@
 
 * [Introduction](README.md)
 
+## 系统
+
+* [系统偏好设置](preference_and_settings.md)
 
 ## 代码
 * [Emacs](emacs.md)
