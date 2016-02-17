@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* 系统偏好设置
+* [系统偏好设置](preference_and_settings.md)
 * [Aria 2](aria_2.md)
 * [Emacs](emacs.md)
 * [git](git.md)
