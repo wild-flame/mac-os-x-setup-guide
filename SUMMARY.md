@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* Settings
 * [Aria 2](aria_2.md)
 * [Emacs](emacs.md)
 * [git](git.md)
