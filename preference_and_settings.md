@@ -15,7 +15,7 @@
 - 若使用 Alfred，则可以关闭 spotlight 的快捷键。  
   默认为：**command + space**（可将其设为 Alfred 的快捷键）
 
-### * 设置输入源，输入法 
+### 设置输入源，输入法 
 - 安装自己喜欢的输入法。
 
   推荐使用 “[搜狗输入法](http://pinyin.sogou.com/mac/)”。[^1]
