@@ -17,8 +17,8 @@ Latex的配置：
 
 ### Org-mode
 
-- Inline Latex preview : `C-c C-x C-l` [^1]
-- Output `.org` file to Latex / other format: `C-c C-e`
+- 预览 Latex 公式 : `C-c C-x C-l` [^1]
+- 输出 `.org` 文件至 pdf 或其他格式: `C-c C-e`
 
 [^1]:http://orgmode.org/worg/org-tutorials/org-latex-preview.html 
 
