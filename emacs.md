@@ -9,6 +9,15 @@ Mac 下面的 emcas 还是有很多不同的版本的，选择使用 [GNU Emacs]
 
 Emacs 推荐使用 [spacemacs](https://github.com/syl20bnr/spacemacs) 作为基础配置。Spacemacs 整个项目还是很不错的，一致性和理念非常好，也借鉴了很多 vim 的东西。作为一个 vimer 来说，spcaemacs 巧妙的结合了二者的优点。
 
+### Flyspell
+
+`Flyspell` 需要 `ispell` 才能正常使用。
+
+```
+$ brew install ispell
+```
+
+
 ---
 
 FYI：
@@ -16,7 +25,7 @@ FYI：
 
 - orgmode-mediawiki 
  
-```
+   ```
 (setq dotspacemacs-additional-packages '(ox-mediawiki))
   (add-to-list 'load-path "~/.emacs.d/custom/orgmode-mediawiki")
   (require 'ox-mediawiki)
