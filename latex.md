@@ -15,8 +15,7 @@ Latex的配置：
 
 ## Cheatsheet
 
-Inline Latex preview : `C-c C-x C-l` [^1]
-
+- Inline Latex preview : `C-c C-x C-l` [^1]
 
 [^1]:http://orgmode.org/worg/org-tutorials/org-latex-preview.html 
 
