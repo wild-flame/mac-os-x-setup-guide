@@ -13,12 +13,12 @@ Latex的配置：
 请使用这个网站MacTex 的发行包来安装：
 <https://www.tug.org/mactex/>
 
-## Cheatsheet for Emacs Org-mode / Latex 
+## Cheatsheet for Emacs Org-mode with Latex
 
 ### Org-mode
 
 - Inline Latex preview : `C-c C-x C-l` [^1]
-- Output .Org file to other format: `C-c C-e`
+- Output .Org file to Latex / other format: `C-c C-e`
 
 [^1]:http://orgmode.org/worg/org-tutorials/org-latex-preview.html 
 
