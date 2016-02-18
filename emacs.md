@@ -7,7 +7,7 @@ Mac 下面的 emcas 还是有很多不同的版本的，选择使用 [GNU Emacs]
 
 ## Emacs 的配置
 
-Emacs 推荐使用 [spacemacs](https://github.com/syl20bnr/spacemacs) 作为基础配置。Spacemacs 整个项目还是很不错的，理念简单，一致性强，也借鉴了很多 vim 的东西，spcaemacs 巧妙的结合了二者的优点。对于一个 vimer 来说是使用 Emacs 的不二选择。
+Emacs 推荐使用 [spacemacs](https://github.com/syl20bnr/spacemacs) 作为基础配置。Spacemacs 整个项目还是很不错的，理念简单，一致性高，功能也不弱，也借鉴了很多 vim 的东西，spcaemacs 巧妙的结合了二者的优点。对于一个 vimer 来说是使用 Emacs 的不二选择。
 
 ### Flyspell
 
