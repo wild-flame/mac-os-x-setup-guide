@@ -13,7 +13,7 @@ Latex的配置：
 请使用这个网站 MacTex 的发行包来安装：
 <https://www.tug.org/mactex/>
 
-## Cheatsheet for Emacs Org-mode with Latex
+## Cheatsheat
 
 ### Org-mode
 
