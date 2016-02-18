@@ -18,7 +18,7 @@ Latex的配置：
 ### Org-mode
 
 - Inline Latex preview : `C-c C-x C-l` [^1]
-- Output .Org file to Latex / other format: `C-c C-e`
+- Output .org file to Latex / other format: `C-c C-e`
 
 [^1]:http://orgmode.org/worg/org-tutorials/org-latex-preview.html 
 
