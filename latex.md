@@ -10,7 +10,7 @@ Latex的配置：
 
     We recommend using a MacTeX distribution: https://www.tug.org/mactex/
     
-请使用这个网站MacTex 的发行包来安装：
+请使用这个网站 MacTex 的发行包来安装：
 <https://www.tug.org/mactex/>
 
 ## Cheatsheet for Emacs Org-mode with Latex
