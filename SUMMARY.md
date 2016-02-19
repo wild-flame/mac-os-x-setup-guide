@@ -11,5 +11,5 @@
 * [Shadowsocks](shadowsocks.md)
 * [其它常用软件](Others.md)
 * [附：疑难杂症等](appendix.md)
-* Python
+* [Python](python.md)
 
