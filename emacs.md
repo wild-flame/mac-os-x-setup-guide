@@ -19,25 +19,6 @@ Emacs 推荐使用 [spacemacs](https://github.com/syl20bnr/spacemacs) 作为基�
 $ brew install ispell
 ```
 
-## 为 Python 打造你的 Emacs 
-
-要点：
-- Elpy
-- 
-
-TIPS:
-
-Emacs 默认的 Python-mode 就已经包含了自动补全功能。
-
-You can use other core Emacs functions with Python, too. For example, M-x compile/M-x recompile can be used to run tests. M-x pdb can run the Python debugger, and it integrates with Emacs' gud environment so you actually get inline breakpoints.
-
-参考：
-
-- 其中一个答案是 Elpy 的作者亲自写的： http://emacs.stackexchange.com/questions/9696/how-do-you-create-a-robust-python-ide-with-emacs-as-the-text-editor
-
-
----
-
 FYI：
 我自己的一些特殊配置如下。
 
