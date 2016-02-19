@@ -19,6 +19,8 @@ Emacs 推荐使用 [spacemacs](https://github.com/syl20bnr/spacemacs) 作为基�
 $ brew install ispell
 ```
 
+---
+
 FYI：
 我自己的一些特殊配置如下。
 
