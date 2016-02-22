@@ -39,4 +39,4 @@ export PATH=/path/to/something
 export PATH="$PATH:/path/to/something"
 ```
 
-的形式，即可解决这个问题。
+的形式，即可解决这个问题。：D
