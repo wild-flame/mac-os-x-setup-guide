@@ -25,6 +25,7 @@
 
 ## 代码
 * [Emacs](emacs.md)
+* [Vim](vim.md)
 * [Git](git.md)
 * [iTerm2](iterm2.md)
 * [Python](python.md)
