@@ -7,10 +7,6 @@ Mac 下面的 emcas 还是有很多不同的版本的，选择使用 [GNU Emacs]
 
 ## Emacs 的配置
 
-Emacs 推荐使用 [spacemacs](https://github.com/syl20bnr/spacemacs) 作为基础配置。Spacemacs 整个项目还是很不错的，理念简单，一致性高，功能也不弱，项目借鉴了很多 vim 的东西，spcaemacs 巧妙的结合了二者的优点。对于一个 vimer 来说，是使用 Emacs 的不二选择。
-
-*TIPS: 关于 spacemacs 的具体使用，可以查看相关的 [文档 (Documentation)](https://github.com/syl20bnr/spacemacs/blob/d555002308e7ce86161d3d7998e42cdcc5a9800d/doc/DOCUMENTATION.org#emacs-server)*。
-
 ### Flyspell
 
 `Flyspell` 需要 `ispell` 才能正常使用。
@@ -18,8 +14,30 @@ Emacs 推荐使用 [spacemacs](https://github.com/syl20bnr/spacemacs) 作为基�
 ```
 $ brew install ispell
 ```
+### Spacemacs
+
+Emacs 推荐使用 [spacemacs](https://github.com/syl20bnr/spacemacs) 作为基础配置。Spacemacs 整个项目还是很不错的，理念简单，一致性高，功能也不弱，项目借鉴了很多 vim 的东西，spcaemacs 巧妙的结合了二者的优点。对于一个 vimer 来说，是使用 Emacs 的不二选择。
+
+*TIPS: 关于 spacemacs 的具体使用，可以查看相关的 [文档 (Documentation)](https://github.com/syl20bnr/spacemacs/blob/d555002308e7ce86161d3d7998e42cdcc5a9800d/doc/DOCUMENTATION.org#emacs- )*。
+
+
+
+#### OS X Layer
+
+把 `osx` 加到 `~/.spacemacs`. 里面的 `dotspacemacs-configuration-layers` 下面就可以使用了。
+
+官网上的说明是：
+
+>Spacemacs is not just emacs+vim. It can have OSX keybindings too! This layer globally defines common OSX keybindings. ⌘ is set to super and ⌥ is set to meta. Aside from that, there’s nothing much, really.
+
+>While in dired this layer will try to use gls instead of ls.
+
+>While this layer enables common OSX bindings, it does not implement OSX navigation keybindings. Spacemacs is meant to be used with evil, and we encourage you to do so :)
 
 ---
+
+这个层最主要的好处就是可以直接使用系统默认的复制和粘贴键。这样子，系统，Vim 和 Emacs 里面的按键就完全统一了。
+
 
 FYI：
 我自己的一些特殊配置如下。
