@@ -12,5 +12,5 @@
 * [其它常用软件](Others.md)
 * [附：疑难杂症等](appendix.md)
 * [Python](python.md)
-* Vim
+* [Vim](vim.md)
 
