@@ -34,6 +34,11 @@ Emacs 推荐使用 [spacemacs](https://github.com/syl20bnr/spacemacs) 作为基�
 
 >While this layer enables common OSX bindings, it does not implement OSX navigation keybindings. Spacemacs is meant to be used with evil, and we encourage you to do so :)
 
+另外，说明中也有提到最好用`gls`取代`ls`，所以需要安装
+
+```
+brew install coreutils
+```
 
 ---
 FYI：
