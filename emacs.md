@@ -1,11 +1,11 @@
 # Emacs
 
-## Emacs 的安装
+## 安装 | Install
 
 Mac 下面的 emcas 还是有很多不同的版本的，选择使用 [GNU Emacs](<http://emacsformacosx.com/>
 ) 就好了。
 
-## Emacs 的配置
+## 配置 | Settings
 
 ### Flyspell
 
