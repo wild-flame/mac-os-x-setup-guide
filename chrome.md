@@ -1,2 +1,3 @@
 # chrome
 
+- vimium
