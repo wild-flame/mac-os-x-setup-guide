@@ -1,12 +1,20 @@
 # Vim
 
+#### Vundle
+
 自从有了 vundle 以后，重新配置 vim 的的工作就变得简单了很多，所以我们要做的首先就是安装 vundle 。
 
 ```
 $ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/vundle
 ```
 
-***配置文件示例**：
+#### 安装其他的包（Package）
+
+设置好 Vundle 和 `.vimrc` 以后，在运行 vim 的时候就需要键入`:BundleInstall` 就可以自动安装需要的包文件了，如果不知道要如何配置 `vim` 的话，可以参考附上的配置文件`.vimrc`。
+
+---
+
+#### *附：配置文件示例：
 
 这整个配置文件是笔者几年来 ruby 开发和 rails 开发的经验慢慢演化积累下来的。最开始应该是参考了某君的设置，但年代已久，已经不详。但因为 vim 相比 emacs 功能更加单纯，所以也没有像 emacs 一样大段大段 elisp 的代码，整个配置很短。
 
