@@ -24,21 +24,18 @@ Emacs 推荐使用 [spacemacs](https://github.com/syl20bnr/spacemacs) 作为基�
 
 #### OS X Layer
 
-把 `osx` 加到 `~/.spacemacs`. 里面的 `dotspacemacs-configuration-layers` 下面就可以使用了。
+*TIPS: spacemacs 把里面的配置文件都按层（Layer）组织起来，使得里面的配置文件都非常的有层次。*
 
-官网上的说明是：
+如果要启用这个层，就需要把 `osx` 加到 `~/.spacemacs`. 里面的 `dotspacemacs-configuration-layers` 下面。
+
+这个层最主要的好处就是可以直接使用系统默认的复制和粘贴键。这样子，系统，Vim 和 Emacs 里面的按键就完全统一了。而官网上的说明是：
 
 >Spacemacs is not just emacs+vim. It can have OSX keybindings too! This layer globally defines common OSX keybindings. ⌘ is set to super and ⌥ is set to meta. Aside from that, there’s nothing much, really.
 
->While in dired this layer will try to use gls instead of ls.
-
 >While this layer enables common OSX bindings, it does not implement OSX navigation keybindings. Spacemacs is meant to be used with evil, and we encourage you to do so :)
 
+
 ---
-
-这个层最主要的好处就是可以直接使用系统默认的复制和粘贴键。这样子，系统，Vim 和 Emacs 里面的按键就完全统一了。
-
-
 FYI：
 我自己的一些特殊配置如下。
 
