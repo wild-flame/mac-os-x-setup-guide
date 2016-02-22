@@ -35,8 +35,8 @@ Warning: PATH set to RVM ruby but GEM_HOME and/or GEM_PATH not set, see:
 3. 配置 `.zshrc`
 
 ```
-    ZSH_THEME=pygmalion
-    # Use sublimetext for editing config files
+    ZSH_THEME=agnoster
+    # Use macvim for editing config files
     alias zshconfig="gvim ~/.zshrc"
     alias envconfig="gvim ~/Projects/config/env.sh"
     plugins=(git colored-man colorize github jira vagrant virtualenv pip python brew osx zsh-syntax-highlighting)
