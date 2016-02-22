@@ -38,8 +38,11 @@
 ## 其他
 
 * [其它常用软件](Others.md)
-    -
-
+    - F.lux
+    - Avira（小红伞）
+    - SourceTree 
+    - Noizio
+    - Slack
 ---
 
 本书地址： https://wild-flame.gitbooks.io/mac-os-x-setup-guide/content/
