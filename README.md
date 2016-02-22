@@ -26,6 +26,8 @@
 ## 代码
 * [Emacs](emacs.md)
 * [Git](git.md)
+* [iTerm2](iterm2.md)
+* [Python](python.md)
 
 ## 软件安装以及下载
 * [Aria 2](aria_2.md)  *【施工中……】*
@@ -48,3 +50,5 @@
 本书地址： https://wild-flame.gitbooks.io/mac-os-x-setup-guide/content/
 
 MIT License
+
+
