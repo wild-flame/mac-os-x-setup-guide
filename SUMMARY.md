@@ -5,7 +5,6 @@
 * [Homebrew](homebrew.md)
 * [Aria 2](aria_2.md)
 * [iTerm2](iterm2.md)
-* [chrome](chrome.md)
 * [git](git.md)
    * [.gitignore](gitignore.md)
 * [Python](python.md)
@@ -14,5 +13,6 @@
 * [Latex](latex.md)
 * [Shadowsocks](shadowsocks.md)
 * [其它常用软件](Others.md)
+* [chrome](chrome.md)
 * [附：疑难杂症等](appendix.md)
 
