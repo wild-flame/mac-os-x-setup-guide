@@ -7,7 +7,7 @@
 * [git](git.md)
    * [.gitignore](gitignore.md)
 * [iTerm2](iterm2.md)
-* [chrome](chrome.md)
+* [Chrome](Chrome.md)
 * [Python](python.md)
 * [Emacs](emacs.md)
 * [Vim](vim.md)
