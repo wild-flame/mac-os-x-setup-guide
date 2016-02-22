@@ -31,18 +31,25 @@ wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O - 
 Warning: PATH set to RVM ruby but GEM_HOME and/or GEM_PATH not set, see:
     https://github.com/wayneeseguin/rvm/issues/3212
 ```
+解决办法详见[]
 
-3. 配置 `.zshrc`
+配置 `.zshrc`
+
 
 ```
-    ZSH_THEME=agnoster
-    # Use macvim for editing config files
+ZSH_THEME=agnoster
+# Add env.sh
+. ~/Projects/config/env.sh
+plugins=(git colored-man colorize github jira vagrant virtualenv pip python brew osx zsh-syntax-highlighting)
+```
+
+```
+# Use macvim for editing config files
+
     alias zshconfig="gvim ~/.zshrc"
     alias envconfig="gvim ~/Projects/config/env.sh"
-    plugins=(git colored-man colorize github jira vagrant virtualenv pip python brew osx zsh-syntax-highlighting)
-    # Add env.sh
-    . ~/Projects/config/env.sh
-```
+    
 
+```
 #### 
 
