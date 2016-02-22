@@ -1,6 +1,11 @@
-# chrome
+# Chrome
 
-Chrome 下面主要是有几个重要的插件需要添加。
+## 安装 | Install
 
-- vimium 
-- momentum
+
+
+## 配置 | Customization
+
+Chrome 下面主要是有一个非常有用插件可以添加。
+
+- vimium: https://vimium.github.io/
