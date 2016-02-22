@@ -23,17 +23,19 @@
 
 * [系统偏好设置](preference_and_settings.md)
 
-## 代码
+## 软件安装以及下载
+* [Aria 2](aria_2.md)  *【施工中……】*
+* [Homebrew](homebrew.md)
+
+## 通用
 * [Emacs](emacs.md)
 * [Vim](vim.md)
 * [Git](git.md)
 * [iTerm2](iterm2.md)
+
+## 编程语言相关环境
 * [Python](python.md)
 
-## 软件安装以及下载
-* [Aria 2](aria_2.md)  *【施工中……】*
-* [Homebrew](homebrew.md)
- 
 ## 科研
 * [Latex](latex.md)
 * [Shadowsocks](shadowsocks.md)
