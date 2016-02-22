@@ -25,7 +25,9 @@ Warning: PATH set to RVM ruby but GEM_HOME and/or GEM_PATH not set, see:
 
 ### 解决办法：
 
-确保配置 `.zshrc` 的配置文件里的所有
+问题产生的原因是因为 path 被 oh-my-zsh 的的保护机制改写了。
+
+只要确保配置 `.zshrc` 的配置文件里的所有
 
 ```
 export PATH=/path/to/something
@@ -37,4 +39,4 @@ export PATH=/path/to/something
 export PATH="$PATH:/path/to/something"
 ```
 
-的形式即可解决这个问题。
+的形式，即可解决这个问题。
