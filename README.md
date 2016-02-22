@@ -28,7 +28,8 @@
 * [Emacs](emacs.md)
 * [Vim](vim.md)
 * [Git](git.md)
-* [iTerm2](iterm2.md)
+* [iTerm2](iterm2.md) *【施工中……】*
+    - zsh  *【蓝图中……】*
 
 ## 编程语言相关环境
 * [Python](python.md)
