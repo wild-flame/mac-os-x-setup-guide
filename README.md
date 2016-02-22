@@ -53,7 +53,7 @@
 
 尽管相比于 Linux 系统而言，Mac OS 所需要的配置已经很少了，但是作为程序员或者科研人员来说，仍然需要进行很多的配置，于是便有了创作此书的念头。
 
-如果有人愿意一起完善此书，可以 [fork]( https://github.com/wild-flame/mac-os-x-setup-guide) 本书的源码，提出书中的错误，更新过期的内容，毕竟笔者使用的编程语言也是有限的，希望能够完善并且加入更多的编程语言的。
+如果有人愿意一起完善此书，可以 [fork]( https://github.com/wild-flame/mac-os-x-setup-guide) 本书的源码，提出书中的错误，更新过期的内容，毕竟笔者使用的编程语言也是有限的，希望能够完善并且加入更多的编程语言的配置。
 
 本书地址： https://wild-flame.gitbooks.io/mac-os-x-setup-guide/content/
 
