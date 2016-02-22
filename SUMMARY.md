@@ -13,6 +13,6 @@
 * [Latex](latex.md)
 * [Shadowsocks](shadowsocks.md)
 * [其它常用软件](Others.md)
-* [chrome](chrome.md)
 * [附：疑难杂症等](appendix.md)
+* [chrome](chrome.md)
 
