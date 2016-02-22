@@ -2,7 +2,7 @@
 
 ## 安装 | Install
 
-
+在官网上下载 [Installer](https://www.google.com/chrome?brand=CHMO#eula) 安装即可。
 
 ## 配置 | Customization
 
