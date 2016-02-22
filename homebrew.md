@@ -1,6 +1,6 @@
 # Homebrew
 
-## 安装 - Install
+## 安装 | Install
 
 Homebrew 的安装非常简单。
  
@@ -8,7 +8,7 @@ Homebrew 的安装非常简单。
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
-## 使用 - Usage
+## 使用 | Usage
 ```
 $ brew install wget
 ```
