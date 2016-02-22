@@ -31,7 +31,7 @@ wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O - 
 Warning: PATH set to RVM ruby but GEM_HOME and/or GEM_PATH not set, see:
     https://github.com/wayneeseguin/rvm/issues/3212
 ```
-解决办法详见[]
+解决办法详见 [疑难杂症](appendix.md) 。
 
 配置 `.zshrc`
 
