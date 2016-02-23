@@ -1,4 +1,4 @@
-# Mac-OS-X-Setup-Guide
+# Mac OS X 的配置指南 | Mac OS X Setup Guide 
 
 当你拿到一台新的 Mac 电脑以后，就需要其进行配置，然后，你就能有效的利用它进行工作了。
 
