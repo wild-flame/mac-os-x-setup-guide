@@ -14,7 +14,7 @@
 
 zsh 的使用和 bash 区别不大，大部分功能都很简单而且自然。
 
-为了使 `.zshrc` 尽可能的简洁。我们会新建一个叫 `env.sh`的文件，用来保存如`alias`,`exports`,`path`等环境变量。
+为了使 `.zshrc` 尽可能的简洁。我们会新建一个叫 `env.sh`的文件，用来保存如`alias`,`exports`,`path`等环境变量。这样做的另外一个好处是，这个文件可以放在 Dropbox 里在不同电脑上进行同步。
 
 #### 安装
 
@@ -28,7 +28,10 @@ brew install zsh zsh-completions
 wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O - | sh
 ```
 
-#### 配置 `.zshrc`
+#### 配置
+
+配置`.zshrc`文件
+
 ```
 ZSH_THEME=agnoster
 
@@ -40,6 +43,14 @@ plugins=(git colored-man colorize github jira vagrant virtualenv pip python brew
 # Use macvim for editing config files
     alias zshconfig="gvim ~/.zshrc"
     alias envconfig="gvim ~/Projects/config/env.sh"
+```
+
+配置`.env.sh`文件
+
+```
+alias evil='open -a /Applications/Emacs.app $1'
+alias ec='/Applications/Emacs.app/Contents/MacOS/bin/emacsclient'
+alias ls='gls' # require to install 
 ```
 
 #### 主题
@@ -65,5 +76,5 @@ Warning: PATH set to RVM ruby but GEM_HOME and/or GEM_PATH not set, see:
 
 ## 参考
 
-iTerm2 + oh my zsh + solarized + Meslo powerline font (OSX)
-Raw: https://gist.github.com/kevin-smets/8568070
+- [iTerm2 + oh my zsh + solarized + Meslo powerline font (OSX)
+Raw](https://gist.github.com/kevin-smets/8568070)
