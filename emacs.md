@@ -116,3 +116,8 @@ same directory as the org-buffer and insert a link to this file."
        (define-key flyspell-mouse-map [mouse-2] nil))) 
 )
 ```
+
+- turn the linum-on
+```
+  (global-linum-mode) ; Show line numbers by default
+```
