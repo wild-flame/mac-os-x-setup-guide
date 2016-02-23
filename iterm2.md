@@ -53,8 +53,6 @@ plugins=(git colored-man colorize github jira vagrant virtualenv pip python brew
 
 之后按照 iTerm -> preferences -> profiles -> text 修改字体即可。
 
-
-
 ## *附注：
 如果你以前安装过 rvm 的话，你可能会看到如下的错误信息： 
 
