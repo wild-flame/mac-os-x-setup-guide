@@ -117,7 +117,7 @@ same directory as the org-buffer and insert a link to this file."
 )
 ```
 
-- turn the linum-on
+- 显示代码行数
 ```
   (global-linum-mode) ; Show line numbers by default
 ```
