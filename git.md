@@ -24,3 +24,10 @@
 进阶请参见 [设置 Git](https://help.github.com/articles/set-up-git/)：包括 SSH，HTTPS。
 
 
+# Advanced Settings
+
+每次都自动添加.gitingore - 
+http://stackoverflow.com/questions/16658087/automatically-add-gitignore-and-hooks-on-git-init
+
+# 参考：
+
