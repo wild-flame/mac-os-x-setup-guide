@@ -31,3 +31,4 @@ http://stackoverflow.com/questions/16658087/automatically-add-gitignore-and-hook
 
 # 参考：
 
+1. http://stackoverflow.com/questions/16658087/automatically-add-gitignore-and-hooks-on-git-init
