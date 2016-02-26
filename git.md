@@ -29,6 +29,27 @@
 每次都自动添加.gitingore - 
 http://stackoverflow.com/questions/16658087/automatically-add-gitignore-and-hooks-on-git-init
 
+# 小抄 | Git Cookbook 
+
+把当前的 branch 设置成 master. [^2]
+
+```
+git checkout better_branch
+git merge --strategy=ours master    # keep the content of this branch, but record a merge
+git checkout master
+git merge better_branch             # fast-forward master up to the merge
+```
+或者
+```
+git checkout new-master
+git branch -m master old-master
+git branch -m new-master master
+# And don't do this part.  Just don't.  But if you want to...
+# git branch -d --force old-master
+```
+
 # 参考：
 
 1. http://stackoverflow.com/questions/16658087/automatically-add-gitignore-and-hooks-on-git-init
+
+[^2]:http://stackoverflow.com/questions/2763006/change-the-current-branch-to-master-in-git 
