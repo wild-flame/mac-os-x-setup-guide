@@ -18,7 +18,7 @@ Latex的配置：
 ### Org-mode
 
 - 预览 Latex 公式： `C-c C-x C-l` [^1]
-- 按照 UTF-8 显示： `C-c C-e \`
+- 按照 UTF-8 显示： `C-c C-x \`
 - 输出 `.org` 文件至 pdf 或其他格式： `C-c C-e`
 
 
