@@ -23,11 +23,6 @@ else:
 如果你使用了 Homebrew 来安装 python 的话，就会遇到一个错误[^1]。
 
 
-Reference: 
-
-1. [Spacemacs with Python layer](http://www.slant.co/topics/366/viewpoints/13/~python-ides~spacemacs-with-python-layer)
-2. [Fullstack Python - Emacs](http://www.fullstackpython.com/emacs.html)
-
 
 --- 
 
