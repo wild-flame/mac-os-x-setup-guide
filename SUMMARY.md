@@ -6,6 +6,7 @@
 * [Aria 2](aria_2.md)
 * [git](git.md)
    * [.gitignore](gitignore.md)
+* MPV
 * [iTerm2](iterm2.md)
 * [Python](python.md)
 * [Emacs](emacs.md)
@@ -15,5 +16,4 @@
 * [Chrome](chrome.md)
 * [其它常用软件](Others.md)
 * [附：疑难杂症等](appendix.md)
-* MPV
 
