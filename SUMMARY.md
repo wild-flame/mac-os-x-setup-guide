@@ -6,7 +6,7 @@
 * [Aria 2](aria_2.md)
 * [git](git.md)
    * [.gitignore](gitignore.md)
-* MPV
+* [MPV](mpv.md)
 * [iTerm2](iterm2.md)
 * [Python](python.md)
 * [Emacs](emacs.md)
