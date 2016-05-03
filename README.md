@@ -25,7 +25,7 @@ Mac 的电脑很棒，可以称的上艺术品了。但是，对于绝大多数�
 * [Vim](vim.md)
 * [Git](git.md)
 * [iTerm2](iterm2.md) *【施工中……】*
-    - zsh  *【构想中……】*
+]
 
 ## 编程语言相关环境
 * [Python](python.md)
