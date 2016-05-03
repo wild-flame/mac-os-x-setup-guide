@@ -88,6 +88,14 @@ $ aria2c --conf-path="/Users/xxxxxx/.aria2/aria2.conf" -D
 $ git clone https://github.com/ziahamza/webui-aria2
 ```
 
+#### 添加到收藏夹
+
+```
+$ cd webui-aria2 
+$ open index.html
+```
+然后点击”收藏“按钮把这个页面添加到收藏夹里吧！
+
 ---
 
 *参考：*
