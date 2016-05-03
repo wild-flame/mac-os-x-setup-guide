@@ -31,7 +31,6 @@ Warning: PATH set to RVM ruby but GEM_HOME and/or GEM_PATH not set, see:
 
 ```
 export PATH=/path/to/something
-
 ```
 都改写为
 
