@@ -24,8 +24,8 @@ Mac 的电脑很棒，可以称的上艺术品了。但是，对于绝大多数�
 * [Emacs](emacs.md)
 * [Vim](vim.md)
 * [Git](git.md)
+  * [.gitignore](gitignore.md)
 * [iTerm2](iterm2.md) *【施工中……】*
-]
 
 ## 编程语言相关环境
 * [Python](python.md)
