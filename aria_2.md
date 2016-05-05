@@ -96,6 +96,12 @@ $ open index.html
 ```
 然后点击”收藏“按钮把这个页面添加到收藏夹里吧！
 
+#### 下载 Chrome 插件
+
+通过网盘下载所需要使用的插件：[下载地址](https://chrome.google.com/webstore/detail/baiduexporter/mjaenbjdjmgolhoafkohbhhbaiedbkno)
+
+**使用方法：**
+
 ---
 
 *参考：*
