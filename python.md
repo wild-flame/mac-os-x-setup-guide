@@ -1,6 +1,6 @@
 # Python
 
-
+#### 设置 python 的 shell 在启动的时候读取的脚本。
 
 ```
 $ export PYTHONSTARTUP=$HOME/.pythonrc.py
