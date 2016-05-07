@@ -22,6 +22,8 @@ $ cd .aria2
 $ touch aria2.conf
 ```
 
+aria2有两个模式，第一个没有后台在命令行里运行的，第二个就是 rpc 模式。
+
 可以设置`aria2.conf`文件如下：
 ```
 #用户名
@@ -82,6 +84,8 @@ file-allocation=prealloc
 $ aria2c --conf-path="/Users/xxxxxx/.aria2/aria2.conf" -D
 ```
 
+[TODO*: 配置开机启动]
+
 #### 配置 Web 界面
 
 ```
@@ -102,7 +106,9 @@ $ open index.html
 
 **使用方法：**
 
-此地址需要翻墙
+安装插件后进入百度网盘任意下载页，可以看到“导出下载”，选择“ARIA2 - RPC”即可。
+
+[TODO:截图]
 
 ---
 
