@@ -1,7 +1,5 @@
 # Aria2 - 下载神器
 
-![](d363dd0bbaa0cf4c7b530eaa34aef33a_b.jpg)
-
 实现百度，迅雷等离线下载。
 
 ![](68edf5d71b4c98e2ae34f16be36248df_b.jpg)
