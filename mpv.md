@@ -19,7 +19,7 @@ brew install --HEAD --with-bundle --with-bluray-support --with-libdvdread --with
 ```
 brew linkapps mpv
 ```
-
+(注意：由于我们要 linkapp 所以用 brew 安装的时候一定要选择 with-bundle，否则没法链接为可执行的应用程序)
 
 ## Reference：
 
