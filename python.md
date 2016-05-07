@@ -20,7 +20,7 @@ else:
 
 ## 问题 | Issues 
 
-如果你使用了 Homebrew 来安装 python 的话，就会遇到一个错误[^1]。
+在使用 emacs 的 anaconda-mode 的时候，如果你使用了 Homebrew 来安装 python 的话，就会遇到一个错误[^1]。
 
 --- 
 
