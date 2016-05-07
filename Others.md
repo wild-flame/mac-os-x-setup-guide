@@ -33,3 +33,6 @@
 ### 6.【FTP】Filezila
 
 地址：https://filezilla-project.org/
+
+### 7. 【全站下载】Maria
+地址：[不知道为什么官网链接挂了，但是有很多网友分享，直接搜索吧：D]
