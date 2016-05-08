@@ -1,7 +1,8 @@
 {
     "plugins": [
         "ga",
-        "github"
+        "github",
+        "edit-link"
     ],
     "pluginsConfig": {
         "ga": {
