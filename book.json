@@ -8,6 +8,9 @@
         "ga": {
             "token": "UA-77442644-1",
             "configuration": "auto"
+        },
+        "github": {
+            "url": "https://github.com/wild-flame/mac-os-x-setup-guide"
         }
     }
 }
