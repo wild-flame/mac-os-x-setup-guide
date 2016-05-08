@@ -2,7 +2,7 @@
     "plugins": [
         "ga",
         "github",
-        "edit-link"
+        "-edit-link"
     ],
     "pluginsConfig": {
         "ga": {
@@ -12,7 +12,7 @@
         "github": {
             "url": "https://github.com/wild-flame/mac-os-x-setup-guide"
         },
-        "edit-link": {
+        "-edit-link": {
             "base": "https://github.com/wild-flame/mac-os-x-setup-guide",
             "label": "Edit This Page"
         }
