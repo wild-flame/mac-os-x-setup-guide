@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "ga"
+        "ga",
+        "github"
     ],
     "pluginsConfig": {
         "ga": {
