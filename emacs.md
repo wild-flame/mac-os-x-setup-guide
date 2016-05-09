@@ -41,8 +41,7 @@ brew install coreutils
 ```
 
 ---
-FYI：
-我自己的一些特殊配置如下。
+#### FYI：*我自己的一些特殊配置如下。
 
 - orgmode-mediawiki 
  
