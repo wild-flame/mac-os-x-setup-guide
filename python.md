@@ -1,6 +1,6 @@
 # Python
 
-#### 设置 python 的 shell 在启动的时候读取的脚本。
+#### *设置 python 的 shell 在启动的时候读取的脚本。
 
 ```
 $ export PYTHONSTARTUP=$HOME/.pythonrc.py
@@ -18,7 +18,7 @@ else:
     readline.parse_and_bind("tab: complete")
 ```
 
-## 问题 | Issues 
+## *问题 | Issues 
 
 在使用 emacs 的 anaconda-mode 的时候，如果你使用了 Homebrew 来安装 python 的话，就会遇到一个错误[^1]。
 
