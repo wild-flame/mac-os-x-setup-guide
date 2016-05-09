@@ -3,7 +3,7 @@
         "ga",
         "edit-link",
         "autocover",
-        "github-buttons"
+        "-github-buttons"
     ],
     "pluginsConfig": {
         "ga": {
@@ -11,15 +11,8 @@
             "configuration": "auto"
         },
         "edit-link": {
-            "base": "https://github.com/wild-flame/mac-os-x-setup-guide/blob/master/",
+            "base": "https://github.com/wild-flame/mac-os-x-setup-guide",
             "label": "Edit This Page"
-        }
-        "github-buttons": {
-            "repo": "wild-flame/mac-os-x-setup-guide",
-            "types": [
-                "star",
-                "watch"
-                     ]
         }
     }
 }
