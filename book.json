@@ -1,7 +1,7 @@
 {
     "plugins": [
         "ga",
-        "-github",
+        "github",
         "edit-link"
     ],
     "pluginsConfig": {
@@ -9,7 +9,7 @@
             "token": "UA-77442644-1",
             "configuration": "auto"
         },
-        "-github": {
+        "github": {
             "url": "https://github.com/wild-flame/mac-os-x-setup-guide"
         },
         "edit-link": {
