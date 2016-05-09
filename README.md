@@ -59,8 +59,6 @@ Mac 的电脑很棒，可以称的上艺术品了。但是，对于绝大多数�
 
 如果有人愿意一起完善此书，可以 [fork]( https://github.com/wild-flame/mac-os-x-setup-guide) 本书的源码，提出书中的错误，更新过期的内容，毕竟笔者使用的编程语言也是有限的，希望能够完善并且加入更多的编程语言的配置。
 
-或者直接点击"Edit this page"更正书中的错误。
-
 本书地址：[mac-setup.wildflame.org](http://mac-setup.wildflame.org/)
 
 MIT License
