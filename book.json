@@ -10,7 +10,7 @@
             "configuration": "auto"
         },
         "edit-link": {
-            "base": "https://github.com/wild-flame/mac-os-x-setup-guide",
+            "base": "https://github.com/wild-flame/mac-os-x-setup-guide/blob/master",
             "label": "Edit This Page"
         }
     }
