@@ -2,8 +2,7 @@
     "plugins": [
         "ga",
         "edit-link",
-        "autocover",
-        "-github-buttons"
+        "autocover"
     ],
     "pluginsConfig": {
         "ga": {
