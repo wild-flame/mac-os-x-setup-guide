@@ -2,7 +2,8 @@
     "plugins": [
         "ga",
         "edit-link",
-        "autocover"
+        "autocover",
+        "anchors"
     ],
     "pluginsConfig": {
         "ga": {
