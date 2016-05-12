@@ -13,6 +13,9 @@
         "edit-link": {
             "base": "https://github.com/wild-flame/mac-os-x-setup-guide/blob/master",
             "label": "Edit This Page"
+        },
+        "sitemap": {
+            "hostname": "mac-setup.wildflame.org"
         }
     }
 }
