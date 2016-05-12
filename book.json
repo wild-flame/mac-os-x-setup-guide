@@ -2,7 +2,8 @@
     "plugins": [
         "ga",
         "edit-link",
-        "autocover"
+        "autocover",
+        "sitemap"
     ],
     "pluginsConfig": {
         "ga": {
