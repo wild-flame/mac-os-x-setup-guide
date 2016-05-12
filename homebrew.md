@@ -8,6 +8,10 @@ Homebrew 的安装非常简单。
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
+*** 注意：** 
+
+Homebrew 的一个依赖（Dependency）是 xcode 的编译器的，但是其实很多人并不需要使用 xcode 的那么多功能，那么可以只是安装**Command Line Tools**，参见 [Xcode](xcode.md) 章节。
+
 ## 使用 | Usage
 ```
 $ brew install wget
