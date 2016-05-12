@@ -5,7 +5,6 @@
 * [Homebrew](homebrew.md)
 * [Aria 2](aria_2/readme.md)
 * [Xcode](xcode.md)
-* Xcode
 * [git](git.md)
    * [.gitignore](gitignore.md)
 * [MPV](mpv.md)
