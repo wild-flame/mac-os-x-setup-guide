@@ -3,9 +3,9 @@
 * [Introduction](README.md)
 * [系统偏好设置](preference_and_settings/readme.md)
 * [Homebrew](homebrew.md)
-* Xcode
 * [Aria 2](aria_2/readme.md)
    * Xcode
+* Xcode
 * [git](git.md)
    * [.gitignore](gitignore.md)
 * [MPV](mpv.md)
