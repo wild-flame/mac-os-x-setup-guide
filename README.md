@@ -17,11 +17,12 @@ Mac 的电脑很棒，可以称的上艺术品了。但是，对于绝大多数�
 
 ## 系统
 
-* [系统偏好设置](preference_and_settings/readme.md)*【施工中……】*
+* [系统偏好设置](preference_and_settings/readme.md)
 
 ## 软件安装以及下载
 * [Aria 2](aria_2/readme.md) 
 * [Homebrew](homebrew.md)
+* [Xcode](xcode.md)*【施工中……】*
 
 ## 通用
 * [Emacs](emacs.md)
