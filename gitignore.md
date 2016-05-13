@@ -1,6 +1,6 @@
 # .gitignore
 
-这份 `.gitignore` 包含了 Mac 会生成一些特有的文件
+这份 `.gitignore` 包含了 Mac 会生成一些特有的文件：
 
 ```
 # Folder view configuration files
