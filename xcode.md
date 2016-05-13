@@ -26,7 +26,7 @@ $ xcode-select --install
 $ git clone https://github.com/XVimProject/XVim
 ```
 
-2. 确保 xcode-select 是指向 Xcode 的路径：
+2. 确保 xcode-select 的路径是指向 Xcode 的：
 ```
 $ xcode-select -p
 /Applications/Xcode.app/Contents/Developer
