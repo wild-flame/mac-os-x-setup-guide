@@ -10,7 +10,7 @@
 $ xcode-select --install
   ```
 
-2. 如果要完整安装的话，可以在[这里](https://developer.apple.com/xcode/)
+2. 如果要完整安装的话，可以在 [这里](https://developer.apple.com/xcode/)
 查看并安装Xcode。
 
 ## 配置
@@ -56,7 +56,6 @@ Do you want to compile XVim with support Xcode Version X.X at your own risk?
 
 TODO：
 
-- [ ] 插件的安装
 - [ ] 整理插件列表
 
 
