@@ -1,8 +1,8 @@
 # .gitignore
 
-`.gitignore`是 Mac 下面用来表示忽略的配置文件，Mac 下面会生成一些文件。
+这份 `.gitignore` 包含了 Mac 会生成一些特有的文件
 
-~~~
+```
 # Folder view configuration files
 .DS_Store
 Desktop.ini
@@ -29,6 +29,5 @@ node_modules
 # Temp File
 *.swp
 *.swa
-
-~~~
+```
 
