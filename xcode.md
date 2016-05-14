@@ -44,7 +44,7 @@ Do you want to compile XVim with support Xcode Version X.X at your own risk?
 ```
 可以按 Y 继续
 
-4. 创建 `.xvimrc`，重启 Xcode。
+*4. 可以在用户的家目录创建`.xvimrc`来定制XVim的配置。
 
 
 ### Reference
