@@ -22,9 +22,9 @@ Mac 的电脑很棒，可以称的上艺术品了。但是，对于绝大多数�
 ## 软件安装以及下载
 * [Aria 2](aria_2/readme.md) 
 * [Homebrew](homebrew.md)
-* [Xcode](xcode.md)*【施工中……】*
 
-## 通用
+## 编程工具
+* [Xcode](xcode.md)*【施工中……】*
 * [Emacs](emacs.md)
 * [Vim](vim.md)
 * [Git](git.md)
@@ -33,6 +33,8 @@ Mac 的电脑很棒，可以称的上艺术品了。但是，对于绝大多数�
 
 ## 编程语言相关环境
 * [Python](python.md)
+* [ ] Ruby/Rails
+* [ ] Node.js
 
 ## 科研
 * [Latex](latex.md)
@@ -51,6 +53,7 @@ Mac 的电脑很棒，可以称的上艺术品了。但是，对于绝大多数�
     - Noizio
     - Slack
     - Filezila
+    - 
 
 
 ---
