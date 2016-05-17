@@ -9,7 +9,6 @@
 * [Emacs](emacs.md)
 * Ruby
 * [Latex](latex.md)
-   * Ruby
 * [git](git.md)
    * [.gitignore](gitignore.md)
 * [Aria 2](aria_2/readme.md)
