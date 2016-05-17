@@ -7,7 +7,7 @@
 * [iTerm2](iterm2.md)
 * [Vim](vim.md)
 * [Emacs](emacs.md)
-* Ruby
+* [Ruby](ruby.md)
 * [Latex](latex.md)
 * [git](git.md)
    * [.gitignore](gitignore.md)
