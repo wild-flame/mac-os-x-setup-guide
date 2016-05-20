@@ -29,5 +29,6 @@ node_modules
 # Temp File
 *.swp
 *.swa
+.#*
 ```
 
