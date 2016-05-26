@@ -39,3 +39,16 @@ export PATH="$PATH:/path/to/something"
 ```
 
 的形式，即可解决这个问题。：D
+
+## git 和 vi 的使用问题
+
+在使用 git 进行 commit 的时候，很容易遇到
+```
+There was a problem with the editor 'vi'
+```
+
+### 解决办法
+
+```
+$ git config --global core.editor /usr/bin/vim
+```
