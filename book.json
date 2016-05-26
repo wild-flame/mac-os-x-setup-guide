@@ -15,7 +15,7 @@
             "label": "Edit This Page"
         },
         "sitemap": {
-            "hostname": "http://mac-setup.wildflame.org"
+            "hostname": "http://mac-setup.wildflame.org/"
         }
     }
 }
