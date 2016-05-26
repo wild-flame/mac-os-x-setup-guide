@@ -19,14 +19,17 @@
     $ git config --global user.name "Your Name Here"
     $ git config --global user.email "your_email@youremail.com"
 
-之后也可以通过 `.gitconfig` 来查看和修改这些配置。
+之后也可以通过 `.gitconfig` 来查看和修改这些配置。另外 Mac OS 下面 vi 编辑器和 git 一起用的时候会出问题，所以
+```
+$ git config --global core.editor /usr/bin/vim
+```
 
 进阶请参见 [设置 Git](https://help.github.com/articles/set-up-git/)：包括 SSH，HTTPS。
 
 
 # Advanced Settings
 
-每次都自动添加.gitingore - 
+- 每次都自动添加.gitingore - 
 http://stackoverflow.com/questions/16658087/automatically-add-gitignore-and-hooks-on-git-init
 
 # 小抄 | Git Cookbook 
