@@ -7,6 +7,11 @@ Mac 下面的 emcas 还是有很多不同的版本的，选择使用 [GNU Emacs]
 
 ## 配置 | Settings
 
+- 禁止 emacs 自动生成`#.filename`的备份文件：
+  
+  emacs 有一个恼人的特性，就是
+
+
 ### Flyspell
 
 `Flyspell` 需要 `ispell` 才能正常使用。
