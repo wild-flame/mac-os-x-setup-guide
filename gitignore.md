@@ -32,3 +32,36 @@ node_modules
 .#*
 ```
 
+## 进阶
+
+除了`.gitignore`还有一个文件`~/.gitignore_global`，用法相同，可以把配置文件写在这里面
+
+```
+# Folder view configuration files
+.DS_Store
+Desktop.ini
+
+# Thumbnail cache files
+._*
+Thumbs.db
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
+# Compiled Python files
+*.pyc
+
+# Compiled C++ files
+*.out
+
+# Application specific files
+venv
+node_modules
+.sass-cache
+
+# Temp File
+*.swp
+*.swa
+.#*
+```
