@@ -1,6 +1,6 @@
 # Xcode
 
-
+xcode 是苹果提供的一个开发工具集，类似于微软的 visual studio。
 
 ## 安装
 

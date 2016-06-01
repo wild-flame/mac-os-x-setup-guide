@@ -1,5 +1,8 @@
 # Homebrew
 
+包管理工具让软件的安装（升级）和卸载都变得简便了许多。Homebrew 就是 Mac 下面的这样一个包管理工具。（类似于 apt-get, yum)。
+
+
 ## 安装
 
 Homebrew 的安装非常简单。

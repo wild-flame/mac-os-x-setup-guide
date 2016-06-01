@@ -1,10 +1,10 @@
 # iTerm2
 
-## 安装 | Install
+## 安装
 
 直接在官网 http://iterm2.com/ 下载并安装即可。
 
-## 配置 | Settings
+## 配置
 
 ### 配色方案
 
