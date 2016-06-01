@@ -1,6 +1,6 @@
 # Homebrew
 
-## 安装 | Install
+## 安装
 
 Homebrew 的安装非常简单。
  
@@ -12,7 +12,7 @@ Homebrew 的安装非常简单。
 
 Homebrew 的一个依赖（Dependency）是 Xcode，但是其实很多人并不需要使用 Xcode 的，那么可以只是安装**Command Line Tools**就行了，参见 [Xcode](xcode.md) 章节。
 
-## 使用 | Usage
+## 使用
 ```
 $ brew install wget
 ```
