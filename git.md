@@ -4,7 +4,7 @@
 
 还好意思说自己是程序员? 
 
-# Install
+# 1. 安装
 
     $ brew install git
 
@@ -14,27 +14,40 @@
 
  `$ which git` 的输出也应该是 `/usr/local/bin/git`.
 
+## 2. 配置
+
 设置用户名和邮箱：
 
     $ git config --global user.name "Your Name Here"
     $ git config --global user.email "your_email@youremail.com"
 
-之后也可以通过 `.gitconfig` 来查看和修改这些配置。另外 Mac OS 下面 vi 编辑器和 git 一起用的时候会出问题，所以
+之后也可以通过 `.gitconfig` 来查看和修改这些配置。
+
+#### 解决 commit 的时候出现的 vi 编辑器的问题
+
+Mac OS 下面 vi 编辑器和 git 一起用的时候会出问题。
+
+```
+error: There was a problem with the editor 'vi'
+```
+所以需要设置编辑器为 vim。
 ```
 $ git config --global core.editor /usr/bin/vim
 ```
 
-进阶请参见 [设置 Git](https://help.github.com/articles/set-up-git/)：包括 SSH，HTTPS。
+---
 
+## Advanced Settings
 
-# Advanced Settings
+- 进阶请参见 [设置 Git](https://help.github.com/articles/set-up-git/)：包括 SSH，HTTPS。
+
 
 - 每次都自动添加.gitingore - 
 http://stackoverflow.com/questions/16658087/automatically-add-gitignore-and-hooks-on-git-init
 
-# 小抄 | Git Cookbook 
+## 小抄 | Git Cookbook 
 
-把当前的 branch 设置成 master. [^2]
+#### 1. 如何把当前的 branch 设置成 master. [^2]
 
 ```
 git checkout better_branch
@@ -55,4 +68,6 @@ git branch -m new-master master
 
 1. http://stackoverflow.com/questions/16658087/automatically-add-gitignore-and-hooks-on-git-init
 
-[^2]:http://stackoverflow.com/questions/2763006/change-the-current-branch-to-master-in-git 
+2. http://stackoverflow.com/questions/2763006/change-the-current-branch-to-master-in-git 
+
+3. http://tooky.co.uk/there-was-a-problem-with-the-editor-vi-git-on-mac-os-x/

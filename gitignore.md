@@ -33,7 +33,7 @@ node_modules
 
 ## 进阶
 
-除了`.gitignore`还有一个文件`~/.gitignore_global`，用法相同，可以把配置文件写在这里面
+除了`.gitignore`还有一个文件`~/.gitignore_global`，用法相同，可以把全局配置文件写在这里面
 
 ```
 .\#* # Emacs生成的lock文件。
