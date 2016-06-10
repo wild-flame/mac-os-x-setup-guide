@@ -55,7 +55,7 @@ alias ls='gls' # require to install
 
 #### 主题
 
-如果使用 `agnoster` 作为主题的话，就需要安装 `Powerline-patched` 字体。
+比方说如果使用 `agnoster` 作为主题的话，就需要安装 `Powerline-patched` 字体。
 
 - [Meslo](https://github.com/Lokaltog/powerline-fonts/blob/master/Meslo/Meslo%20LG%20M%20DZ%20Regular%20for%20Powerline.otf) 点击 view raw 来下载。
 - [Others](https://github.com/powerline/fonts) @ powerline fonts
@@ -64,9 +64,14 @@ alias ls='gls' # require to install
 
 之后按照 iTerm -> preferences -> profiles -> text 修改字体即可。
 
+##### oh my zsh 哪些主题比较好看、有特点？
+
+经过一段时间的试用比较了一些 zsh 的主题之后，发现有些主题很好看，但是不是很实用，最后确定并且推荐使用 ys 这个 zsh 主题：
+
+http://blog.ysmood.org/my-ys-terminal-theme/
+
 ## *附注：
 如果你以前安装过 rvm 的话，你可能会看到如下的错误信息： 
-
 ```
 Warning: PATH set to RVM ruby but GEM_HOME and/or GEM_PATH not set, see:
     https://github.com/wayneeseguin/rvm/issues/3212
