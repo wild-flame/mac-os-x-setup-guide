@@ -66,7 +66,9 @@ alias ls='gls' # require to install
 
 ##### oh my zsh 哪些主题比较好看、有特点？
 
-经过一段时间的试用比较了一些 zsh 的主题之后，发现有些主题很好看，但是不是很实用，最后确定并且推荐使用 ys 这个 zsh 主题：
+上面例子里的 `agnoster` 是一个很好看的主题。
+
+但是经过一段时间的试用比较了一些 zsh 的主题之后，发现好看的主题并不是很实用，特别是有时候要在服务器上使用或者在 win 环境下面使用的时候，如果考虑实用性推荐使用 `ys` 这个 zsh 主题：
 
 http://blog.ysmood.org/my-ys-terminal-theme/
 
@@ -83,3 +85,4 @@ Warning: PATH set to RVM ruby but GEM_HOME and/or GEM_PATH not set, see:
 
 - [iTerm2 + oh my zsh + solarized + Meslo powerline font (OSX)
 Raw](https://gist.github.com/kevin-smets/8568070)
+- https://www.zhihu.com/question/33277508 
