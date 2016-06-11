@@ -89,7 +89,6 @@ Warning: PATH set to RVM ruby but GEM_HOME and/or GEM_PATH not set, see:
 ```
 解决办法详见 [疑难杂症](appendix.md) 。
 
-
 ## 参考
 
 - [iTerm2 + oh my zsh + solarized + Meslo powerline font (OSX)
