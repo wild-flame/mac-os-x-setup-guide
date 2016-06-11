@@ -8,7 +8,6 @@ ShadowSocks可以说是其中一把功能齐全的瑞士军刀。服务器端提
 
 首先你需要有一个VPS。我用的是 DigitalOcean 的VPS。
 
-
 ```
 $ ssh user@128.199.xxx.xxx
 ```
