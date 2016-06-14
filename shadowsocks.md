@@ -6,24 +6,26 @@ ShadowSocks可以说是其中一把功能齐全的瑞士军刀。服务器端提
 
 ## 服务器端
 
-首先你需要有一个VPS。我用的是 DigitalOcean 的VPS。
+1. 首先你需要有一个VPS。我用的是 DigitalOcean 的VPS。
+  
+   ```
+   $ ssh user@128.199.xxx.xxx
+   ```
 
-```
-$ ssh user@128.199.xxx.xxx
-```
-pip 和 python 使用包管理工具安装即可: `apt-get`, `yum`, etc...
+2. pip 和 python 使用包管理工具安装即可: `apt-get`, `yum`, etc...
 
-```
+  ```
 eg. $ apt-get install python-pip
-```
+  ```
 
-检查 python 的版本
-```
+3. 检查 python 的版本
+  ```
 $ python --version
 Python 2.6.8
 ```
-安装 Shadowsocks
-```
+4. 安装 Shadowsocks
+  
+  ```
 $ pip install shadowsocks
 ```
 
