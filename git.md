@@ -47,7 +47,7 @@ http://stackoverflow.com/questions/16658087/automatically-add-gitignore-and-hook
 
 ## 小抄 | Git Cookbook 
 
-#### 1. 如何把当前的 branch 设置成 master. [^2]
+#### 如何把当前的 branch 设置成 master. [^2]
 
 ```
 git checkout better_branch
