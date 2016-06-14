@@ -62,3 +62,5 @@ p.s. 原版的服务器端 python 代码在Git 上被删除了，源代码请查
 mac 上面直接使用 ShadowsocksX 就好了，在这里 [下载](https://shadowsocks.org/en/download/clients.html) 。
 
 p.s. 上面同样有iOS，Android，Windows 以及 Openwrt 下面的客户端可以找到。
+
+另外 ios 上也推荐使用 surge，除了费用略高其余都还不错。
