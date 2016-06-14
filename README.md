@@ -22,7 +22,7 @@ Mac 的电脑很棒，可以称的上艺术品了。但是，对于绝大多数�
 * [Homebrew](homebrew.md)
 
 ## 编程工具
-* [Xcode](xcode.md)*【施工中……】*
+* [Xcode](xcode.md)
 * [Emacs](emacs.md)
 * [Vim](vim.md)
 * [Git](git.md)
