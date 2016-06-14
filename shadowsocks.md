@@ -55,7 +55,7 @@ sudo less /var/log/shadowsocks.log
 
 查看帮助使用 `-h`. 参考配置文件 [Configuration](https://github.com/shadowsocks/shadowsocks/wiki/Configuration-via-Config-File) 在这里。
 
-p.s. 原版的服务器端 python 代码在Git 上被删除了，请查看备份[ziggear/shadowsocks](https://github.com/ziggear/shadowsocks)
+p.s. 原版的服务器端 python 代码在Git 上被删除了，源代码请查看备份[ziggear/shadowsocks](https://github.com/ziggear/shadowsocks)
 
 ## 客户端
 
