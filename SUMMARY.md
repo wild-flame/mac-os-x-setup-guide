@@ -8,7 +8,7 @@
 * [Vim](vim.md)
 * [Emacs](emacs.md)
 * [Ruby](ruby.md)
-* Node.js
+* [Node.js](Nodejs.md)
 * [Latex](latex.md)
 * [git](git.md)
    * [.gitignore](gitignore.md)
