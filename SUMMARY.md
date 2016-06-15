@@ -11,6 +11,7 @@
 * [Latex](latex.md)
 * [git](git.md)
    * [.gitignore](gitignore.md)
+   * node.js
 * [Aria 2](aria_2/readme.md)
 * [MPV](mpv.md)
 * [Shadowsocks](shadowsocks.md)
