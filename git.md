@@ -24,9 +24,12 @@ $ git config --global user.email "your_email@youremail.com"
 2. 设定默认的 push 方式：
 
     ```
-$ git config --global push.default simple
+$ git config --global push.default simple    
 ```
-或者
+（p.s 如果你搞不清的 simple 和 matching 的区别的话就选这个
+）
+
+  或者
 ```
 $ git config --global push.default matching
 ```
