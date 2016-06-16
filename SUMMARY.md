@@ -7,7 +7,7 @@
 * [iTerm2](iterm2.md)
 * [Vim](vim.md)
 * [Emacs](emacs.md)
-* [Node.js](Nodejs.md)
+* [Node.js](nodejs.md)
 * [Python](python.md)
 * [Ruby](ruby.md)
 * [Latex](latex.md)
