@@ -16,12 +16,36 @@
 
 ## 2. 配置
 
-设置用户名和邮箱：
+1. 设置用户名和邮箱：
+   ```
+$ git config --global user.name "Your Name Here"
+$ git config --global user.email "your_email@youremail.com"
+```
+2. 设定默认的 push 方式：
 
-    $ git config --global user.name "Your Name Here"
-    $ git config --global user.email "your_email@youremail.com"
+    ```
+$ git config --global push.default simple
+```
+或者
+```
+$ git config --global push.default matching
+```
 
-之后也可以通过 `.gitconfig` 来查看和修改这些配置。
+注：之后也可以通过 `.gitconfig` 来查看和修改这些配置。
+
+---
+
+#### 关于 push 是选择 `machting` 还是 `simple` 的官方解释
+```
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+```
+
+---
 
 #### 解决 commit 的时候出现的 vi 编辑器的问题
 
