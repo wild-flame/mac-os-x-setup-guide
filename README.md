@@ -32,7 +32,7 @@ Mac 的电脑很棒，可以称的上艺术品了。但是，对于绝大多数�
 ## 编程语言相关环境
 * [Python](python.md)
 * [Ruby/Rails](ruby.md)
-* Node.js
+* [Node.js](nodejs.md)
 
 ## 科研
 * [Latex](latex.md)
