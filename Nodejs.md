@@ -1,6 +1,5 @@
 # Node.js
 
-
 安装 Node.js 的最佳方式是使用 nvm。
 
 cURL:
