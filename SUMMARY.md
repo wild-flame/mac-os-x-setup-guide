@@ -6,6 +6,7 @@
 * [Xcode](xcode.md)
 * [iTerm2](iterm2.md)
 * [Vim](vim.md)
+   * emmet-vim
 * [Emacs](emacs.md)
 * [Node.js](nodejs.md)
 * [Python](python.md)
