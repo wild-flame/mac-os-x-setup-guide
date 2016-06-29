@@ -14,4 +14,4 @@ let g:user_emmet_expandabbr_key = '<s-tab>'
 
 [中文教程](https://www.zfanw.com/blog/zencoding-vim-tutorial-chinese.html)
 
-而使用的时候可以参考 [zencoding cheatsheet]().
+而使用的时候可以参考 [zencoding cheatsheet](ZenCodingCheatSheet.pdf).
