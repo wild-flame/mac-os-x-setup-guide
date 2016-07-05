@@ -19,6 +19,11 @@ https://gems.ruby-china.org
 # 确保只有 gems.ruby-china.org
 ```
 
+## rvm 的配置和使用
+
+
+
+
 #### Reference
 
 - [Gem 的国内镜像](https://gems.ruby-china.org/)
