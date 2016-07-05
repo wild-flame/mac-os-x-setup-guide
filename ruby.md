@@ -21,9 +21,52 @@ https://gems.ruby-china.org
 
 ## rvm 的配置和使用
 
+### rvm 的安装
 
+```
+$ gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3
+$ \curl -sSL https://get.rvm.io | bash -s stable
+$ source ~/.bashrc
+$ source ~/.bash_profile
+```
 
+修改 RVM 的 Ruby 安装源到 Ruby China 的 Ruby 镜像服务器，这样能提高安装速度
 
-#### Reference
+$ echo "ruby_url=https://cache.ruby-china.org/pub/ruby" > ~/.rvm/user/db
+
+### Ruby 的安装与切换
+
+列出已知的 Ruby 版本
+```
+rvm list known
+```
+安装一个 Ruby 版本
+
+    rvm install 2.2.2 --disable-binary
+
+这里安装了最新的 2.2.2, `rvm list known` 列表里面的都可以拿来安装。
+
+切换 Ruby 版本
+
+    rvm use 2.2.2
+
+如果想设置为默认版本，这样一来以后新打开的控制台默认的 Ruby 就是这个版本
+
+    rvm use 2.2.2 --default 
+
+查询已经安装的ruby
+
+    rvm list
+
+卸载一个已安装版本
+
+    rvm remove 1.9.7
+
+升级 
+
+    rvm upgrade 1.9.7 2.2.2
+
+## Reference
 
 - [Gem 的国内镜像](https://gems.ruby-china.org/)
+- [rvm 指南](https://ruby-china.org/wiki/rvm-guide)
