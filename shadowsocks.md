@@ -6,7 +6,7 @@ ShadowSocks可以说是其中一把功能齐全的瑞士军刀。服务器端提
 
 ## 服务器端
 
-1. 首先你需要有一个VPS。我用的是 DigitalOcean 的VPS。
+1. 首先你需要有一个VPS。我用的是 [DigitalOcean](https://m.do.co/c/48f3c6e48721) 的VPS。
   
    ```
    $ ssh user@128.199.xxx.xxx
