@@ -66,7 +66,7 @@ rvm list known
 
     rvm upgrade 1.9.7 2.2.2
 
-## Unit testing
+## 单元测试
 
 从 Ruby 2.2 开始，test::Unit 不再和 Ruby 的标准库一起发行。你可以单独安装：
 
