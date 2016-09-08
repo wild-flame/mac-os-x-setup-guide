@@ -78,3 +78,7 @@ $ sudo gem install test-unit
 
 - [Gem 的国内镜像](https://gems.ruby-china.org/)
 - [rvm 指南](https://ruby-china.org/wiki/rvm-guide)
+
+## 相关资源
+
+- [Ruby的语法总结](http://yunfengsa.github.io/blog/2015/10/30/ruby-jichuyufa/) 
