@@ -82,3 +82,4 @@ $ sudo gem install test-unit
 ## 相关资源
 
 - [Ruby的语法总结](http://yunfengsa.github.io/blog/2015/10/30/ruby-jichuyufa/) 
+- [推荐的代码风格](https://ruby-china.org/wiki/coding-style)
