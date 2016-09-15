@@ -64,3 +64,8 @@ mac 上面直接使用 ShadowsocksX 就好了，在这里 [下载](https://shado
 p.s. 上面同样有iOS，Android，Windows 以及 Openwrt 下面的客户端可以找到。
 
 另外 ios 上也推荐使用 surge，除了费用略高其余都还不错。
+
+# 其他参考资料
+
+- 用 Docker：[30秒部署多用户Shadowsocks服务端](http://www.jianshu.com/p/4e3b54367991/) 
+- [UFOVPS](http://www.ufovps.com/aff.php?aff=122) 不错，有CN2加速直连。
