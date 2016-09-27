@@ -6,6 +6,12 @@
 
 ## 配置
 
+### 将 iTerm2 设置为默认终端
+
+（菜单栏）iTerm -> Make iTerm2 Default Term
+
+![](iTerm_default.png)
+
 ### 配色方案
 
 选用 [solarized](http://ethanschoonover.com/solarized) 即好。
