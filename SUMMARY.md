@@ -4,7 +4,7 @@
 * [系统偏好设置](preference_and_settings/readme.md)
 * [Homebrew](homebrew.md)
 * [Xcode](xcode.md)
-* [iTerm2](iTerm2/iterm2.md)
+* [iTerm2](iTerm2/README.md)
 * [Vim](vim.md)
    * [emmet-vim](vim/emmet-vim.md)
 * [Emacs](emacs.md)
