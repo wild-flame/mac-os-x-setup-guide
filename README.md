@@ -27,7 +27,7 @@ Mac 的电脑很棒，可以称的上艺术品了。但是，对于绝大多数�
 * [Vim](vim.md)
 * [Git](git.md)
    * [.gitignore](gitignore.md)
-* [iTerm2](iterm2.md) 
+* [iTerm2](iTerm2/README.md) 
 
 ## 编程语言相关环境
 * [Python](python.md)
