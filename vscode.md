@@ -1,6 +1,6 @@
 # Visual Studio Code
 
-## 1. 从命令提示行启动`vscode`
+## 1. 配置从命令提示行启动`vscode`
 
 添加如下命令到 `env.sh` 里。
 
