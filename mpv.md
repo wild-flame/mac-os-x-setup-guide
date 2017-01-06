@@ -9,7 +9,7 @@ mpv 是 Mplayer 和 Mplayer2 项目的分支，目前活跃的开发者都转向
 使用 Homebrew 安装就可以了。
 
 ```
-brew install --HEAD --with-bundle --with-bluray-support --with-libdvdread --with-little-cms2 --with-lua mpv
+brew install --HEAD --with-bundle --with-libdvdread mpv
 ```
 
 ## 配置
