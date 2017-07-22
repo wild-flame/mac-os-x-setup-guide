@@ -35,12 +35,13 @@
 地址：https://filezilla-project.org/
 
 ### 7.【全站下载】Maria, HTTrack
-7.1 Maria
+
+#### 7.1 Maria
 
 地址：[不知道为什么我这里官网链接挂了，但是有很多网友分享，直接搜索吧：D]
 
-7.2 HTTrack
-8.
+#### 7.2 HTTrack
+
 ```
 $ brew install httrack
 ```
