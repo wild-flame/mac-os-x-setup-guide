@@ -10,6 +10,13 @@ alias vscode='open -a "Visual Studio Code" $1'
 
 注：`env.sh` 的具体配置参见 `iTerm2` 章节。
 
-## *2. 安装 vim 插件
+## \*2. 安装 vim 插件
 
 按 `command + shift + p` 然后在输入框中输入「扩展」，在应用商店里搜索名为`Vim`的扩展，安装即可。
+
+## \*3. 安装 tslint, typescript 插件
+
+
+
+
+
