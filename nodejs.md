@@ -61,7 +61,13 @@ export PATH="$PATH:./node_modules/.bin" # Add local node module to PATH
 可以配置 cnpm 来下载
 
 ```
-$ npm install -g cnpm 
+$ npm install -g cnpm
+```
+
+在中国的话
+
+```
+$ npm install cnpm -g --registry=https://registry.npm.taobao.org
 ```
 
 
