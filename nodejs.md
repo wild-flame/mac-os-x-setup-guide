@@ -56,3 +56,13 @@ export PATH="$PATH:./node_modules/.bin" # Add local node module to PATH
 
 [How to use package installed locally in node\_modules](http://stackoverflow.com/questions/9679932/how-to-use-package-installed-locally-in-node-modules)
 
+### 如果网速很慢的话
+
+可以配置 cnpm 来下载
+
+```
+$ npm install -g cnpm 
+```
+
+
+
