@@ -7,27 +7,29 @@ ShadowSocks可以说是其中一把功能齐全的瑞士军刀。服务器端提
 ## 服务器端
 
 1. 首先你需要有一个VPS。我用的是 [DigitalOcean](https://m.do.co/c/48f3c6e48721) 的VPS。
-  
+
    ```
    $ ssh user@128.199.xxx.xxx
    ```
 
 2. pip 和 python 使用包管理工具安装即可: `apt-get`, `yum`, etc...
 
-  ```
-eg. $ apt-get install python-pip
-  ```
+   ```
+   eg. $ apt-get install python-pip
+   ```
 
 3. 检查 python 的版本
-  ```
-$ python --version
-Python 2.6.8
-```
+
+   ```
+   $ python --version
+   Python 2.6.8
+   ```
+
 4. 安装 Shadowsocks
-  
-  ```
-$ pip install shadowsocks
-```
+
+   ```
+   $ pip install shadowsocks
+   ```
 
 ### Usage
 
@@ -65,7 +67,26 @@ p.s. 上面同样有iOS，Android，Windows 以及 Openwrt 下面的客户端可
 
 另外 ios 上也推荐使用 surge，除了费用略高其余都还不错。
 
+## 如何让终端也走代理
+
+在终端中直接运行命令
+
+```
+$ export http_proxy=http://proxyAddress:port
+```
+
+这个办法的好处是简单直接，并且影响面很小（只对当前终端有效，退出就不行了）。
+
+如果你用的是ss代理，在当前终端运行以下命令，那么`wgetcurl`这类网络命令都会经过ss代理
+
+```
+$ export ALL_PROXY=socks5://127.0.0.1:1080
+```
+
 # 其他参考资料
 
-- 用 Docker：[30秒部署多用户Shadowsocks服务端](http://www.jianshu.com/p/4e3b54367991/) 
-- [UFOVPS](http://www.ufovps.com/aff.php?aff=122) 不错，有CN2加速直连。
+* 用 Docker：[30秒部署多用户Shadowsocks服务端](http://www.jianshu.com/p/4e3b54367991/) 
+* [UFOVPS](http://www.ufovps.com/aff.php?aff=122) 不错，有CN2加速直连。
+
+
+
