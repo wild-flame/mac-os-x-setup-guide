@@ -83,6 +83,15 @@ $ export http_proxy=http://proxyAddress:port
 $ export ALL_PROXY=socks5://127.0.0.1:1080
 ```
 
+## 如何让 ssh 走代理
+
+添加这两行到 `~/.ssh/config`
+
+```
+Host * 
+    ProxyCommand connect -H 127.0.0.1:1080 %h %p
+```
+
 # 其他参考资料
 
 * 用 Docker：[30秒部署多用户Shadowsocks服务端](http://www.jianshu.com/p/4e3b54367991/) 
