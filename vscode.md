@@ -20,13 +20,13 @@
 >
 > 命令执行完成之后，重启终端工具使新的`$PATH`可用。现在，您可以简单地在终端中任意文件夹下输入‘code .’来编辑该文件夹下的文件了。
 
-~~添加如下命令到 ~~~~`env.sh` 里。~~
+~~添加如下命令到 ~~`env.sh` 里。~~~~
 
 ```
 alias vscode='open -a "Visual Studio Code" $1'
 ```
 
-~~注：~~`env.sh`~~ 的具体配置参见 `iTerm2` 章节。~~
+~~注：`env.sh`~~ 的具体配置参见 `iTerm2` 章节。~~~~
 
 ### \*2. 安装 vim 插件
 
@@ -40,9 +40,9 @@ alias vscode='open -a "Visual Studio Code" $1'
 
 ## \*3. 安装 tslint, typescript 插件
 
-## More Reference: 
+## More Reference:
 
-* https://jeasonstudio.gitbooks.io/vscode-cn-doc/content/md/%E7%BC%96%E8%BE%91%E5%99%A8/%E5%AE%89%E8%A3%85.html
+* [https://jeasonstudio.gitbooks.io/vscode-cn-doc/content/md/编辑器/安装.html](https://jeasonstudio.gitbooks.io/vscode-cn-doc/content/md/编辑器/安装.html)
 
 
 
