@@ -1,16 +1,22 @@
 # Visual Studio Code
 
+## 安装
+
+
+
+# 配置
+
 ## 1. 配置从命令提示行启动`vscode`
 
 **TIPS: 新版本的 vscode 似乎已经不需要再进行配置了。**
 
-~~添加如下命令到 `env.sh` 里。~~
+~~添加如下命令到 ~~`env.sh`~~ 里。~~
 
 ```
 alias vscode='open -a "Visual Studio Code" $1'
 ```
 
-~~注：`env.sh` 的具体配置参见 `iTerm2` 章节。~~
+~~注：~~`env.sh`~~ 的具体配置参见 ~~`iTerm2`~~ 章节。~~
 
 ## \*2. 安装 vim 插件
 
