@@ -40,5 +40,9 @@ alias vscode='open -a "Visual Studio Code" $1'
 
 ## \*3. 安装 tslint, typescript 插件
 
+## More Reference: 
+
+* https://jeasonstudio.gitbooks.io/vscode-cn-doc/content/md/%E7%BC%96%E8%BE%91%E5%99%A8/%E5%AE%89%E8%A3%85.html
+
 
 
