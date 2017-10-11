@@ -14,7 +14,7 @@
 
 ### 将 F1,F2 设置为标准功能键，而不是亮度调节键
 
-![](/assets/f1,f2.png)
+![](/assets/f1-f2-settings.png)
 
 ### 自定义快捷键
 
