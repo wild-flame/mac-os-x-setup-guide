@@ -32,7 +32,7 @@ alias vscode='open -a "Visual Studio Code" $1'
 
 打开 vscode，按住 `command + shift + p` 然后在输入框中输入「扩展」。
 
-![](/assets/Vscode - Extension.png)
+![](/assets/vscode-extension.png)
 
 在应用商店里搜索名为`Vim`的扩展，安装即可。
 
