@@ -14,19 +14,19 @@
 >
 > 如果您希望能够在终端中输入‘code’就能运行VS Code，VS Code有一条命令，**Shell Command: Install 'code' command in PATH**可以将‘code’添加至您的`$PATH`中。
 >
-> 安装完成之后，运行VS Code。现在，打开命令面板（按F1键）输入`Shell 命令`找到`Shell 命令: 在PATH中安装“code”命令`。
+> 安装完成之后，运行VS Code。现在，打开命令面板（按`F1` 或 `command + shift + p`）输入`Shell 命令`找到`Shell 命令: 在PATH中安装“code”命令`。
 >
 > ![](https://jeasonstudio.gitbooks.io/vscode-cn-doc/content/images/md_editor_setup_01.png "Shell 命令：在PATH中安装“code”命令")
 >
 > 命令执行完成之后，重启终端工具使新的`$PATH`可用。现在，您可以简单地在终端中任意文件夹下输入‘code .’来编辑该文件夹下的文件了。
 
-~~添加如下命令到 ~~`env.sh` 里。~~~~
+~~添加如下命令到 `env.sh` 里。~~
 
 ```
 alias vscode='open -a "Visual Studio Code" $1'
 ```
 
-~~注：`env.sh`~~ 的具体配置参见 `iTerm2` 章节。~~~~
+~~注：`env.sh` 的具体配置参见 `iTerm2` 章节。~~
 
 ### \*2. 安装 vim 插件
 
