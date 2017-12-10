@@ -7,6 +7,7 @@
 * [iTerm2](iTerm2/README.md)
 * [Vim](vim.md)
   * [emmet-vim](vim/emmet-vim.md)
+  * [neovim](vim/neovim.md)
 * [Emacs](emacs.md)
 * [Node.js](nodejs.md)
 * [Python](python.md)
