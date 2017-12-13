@@ -65,6 +65,18 @@ rvm list known
 升级 
 
     rvm upgrade 1.9.7 2.2.2
+    
+## 修复OS下常会出现的SSL认证问题 
+
+在安装的时候选用`--disable-binary`：
+
+比如：
+
+```
+rvm install 2.2.0 --disable-binary
+```
+
+可以参考：FIXING FAILING SSL-CERTIFICATE VERIFICATION WITH RVM/OSX ： https://toadle.me/2015/04/16/fixing-failing-ssl-verification-with-rvm.html
 
 ## 附：单元测试
 
