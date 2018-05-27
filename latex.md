@@ -24,8 +24,7 @@ LaTeX的配置：
 
 [^1]:http://orgmode.org/worg/org-tutorials/org-latex-preview.html 
 
-贡献者：
 
-- [TerenceLiu98](https://github.com/TerenceLiu98) 提出了 Latex 的拼法应为 LaTeX
+另见：
 
-另外更多可以参考他的文章： [如何用 macOS 优雅的敲 LaTeX](https://www.jianshu.com/p/b1e3b029ded5)
+- [TerenceLiu98](https://github.com/TerenceLiu98) 和他的文章： [如何用 macOS 优雅的敲 LaTeX](https://www.jianshu.com/p/b1e3b029ded5)
