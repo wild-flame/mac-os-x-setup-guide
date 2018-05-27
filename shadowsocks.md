@@ -92,7 +92,7 @@ Host *
     ProxyCommand nc -X connect -x 127.0.0.1:1080 %h %p
 ```
 
-## VPN
+## Docker
 
 docker run -d -p 1984:1984 oddrationale/docker-shadowsocks -s 0.0.0.0 -p 1984 -k $SSPASSWORD -m aes-256-cfb
 
