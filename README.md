@@ -68,3 +68,6 @@ MIT License
 ---
 Contributors: 
 - [wild-flame](http://github.com/wild-flame)
+- [TerenceLiu98](https://github.com/TerenceLiu98)
+    - 提出了 Latex 的拼法应为 LaTeX
+
