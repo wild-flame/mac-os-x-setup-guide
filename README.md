@@ -52,6 +52,11 @@ Mac 的电脑很棒，可以称的上艺术品了。但是，对于绝大多数�
     - Noizio
     - Slack
     - Filezila
+    - Maria, HTTrack
+    - 阿里旺旺
+    - Dash
+    - Transmission
+    - Moom
 
 ---
 
