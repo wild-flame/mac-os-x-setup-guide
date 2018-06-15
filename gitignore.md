@@ -29,7 +29,12 @@ node_modules
 # Temp File
 *.swp
 *.swa
+
+# github merge file
+*.orig
 ```
+
+
 
 ## 进阶
 
