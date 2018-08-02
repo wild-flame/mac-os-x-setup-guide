@@ -11,30 +11,6 @@ Mac 的电脑很棒，可以称的上艺术品了。但是，对于绝大多数�
 本配置指南创作的主要原则是简洁，对于同时包含多种安装方法的软件优先考虑使用 Homebrew 和命令行来进行安装，其次会选择官网的 dmg 或者 pkg文件，最后才会考虑 App Store，在配置上，尽量遵循最佳实践。但在某些时候，为了方便理解，仍会加入一些必要的说明。
 
 
-* [Introduction](README.md)
-* [系统偏好设置](preference_and_settings/readme.md)
-* [Homebrew](homebrew.md)
-* [Xcode](xcode.md)
-* [iTerm2](iTerm2/README.md)
-* [Emacs](emacs.md)
-* [Vim](vim.md)
-  * [emmet-vim](vim/emmet-vim.md)
-  * [neovim](vim/neovim.md)
-* [Node.js](nodejs.md)
-* [Python](python.md)
-* [Ruby](ruby.md)
-* [Latex](latex.md)
-* [vscode](vscode.md)
-* [git](git.md)
-  * [.gitignore](gitignore.md)
-* [Aria 2](aria_2/readme.md)
-* [MPV](mpv.md)
-* [Shadowsocks](shadowsocks.md)
-* [Chrome](chrome.md)
-* [其它常用软件](Others.md)
-
-
-
 # 目录
 
 ## 系统
@@ -53,6 +29,8 @@ Mac 的电脑很棒，可以称的上艺术品了。但是，对于绝大多数�
 * [Xcode](xcode.md)
 * [Emacs](emacs.md)
 * [Vim](vim.md)
+  * [emmet-vim](vim/emmet-vim.md)
+  * [neovim](vim/neovim.md)
 * [Git](git.md)
    * [.gitignore](gitignore.md)
 * [iTerm2](iTerm2/README.md) 
