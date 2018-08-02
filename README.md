@@ -68,3 +68,4 @@ MIT License
 ---
 Contributors: 
 - [wild-flame](http://github.com/wild-flame)
+- [TerenceLiu98](http://github.com/TerenceLiu98)
