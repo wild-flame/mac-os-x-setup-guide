@@ -5,10 +5,11 @@
 * [Homebrew](homebrew.md)
 * [Xcode](xcode.md)
 * [iTerm2](iTerm2/README.md)
+* [Docker](docker.md)
+* [Emacs](emacs.md)
 * [Vim](vim.md)
   * [emmet-vim](vim/emmet-vim.md)
   * [neovim](vim/neovim.md)
-* [Emacs](emacs.md)
 * [Node.js](nodejs.md)
 * [Python](python.md)
 * [Ruby](ruby.md)
@@ -22,5 +23,5 @@
 * [Chrome](chrome.md)
 * [其它常用软件](Others.md)
 * [附：疑难杂症等](appendix.md)
-* [bibliography](bibliography.md)
+* Docker
 
