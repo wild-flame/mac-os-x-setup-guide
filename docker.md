@@ -29,7 +29,7 @@ $ brew cask install docker
 
 运行之后，会在右上角菜单栏看到多了一个鲸鱼图标，这个图标表明了 Docker 的运行状态。
 
-![](_images/install-mac-menubar.png)
+![](/assets/install-mac-menubar.png)
 
 第一次点击图标，可能会看到这个安装成功的界面，点击 "Got it!" 可以关闭这个窗口。
 
@@ -69,4 +69,13 @@ $ docker rm webserver
 
 ### 镜像加速
 
-鉴于国内网络问题，后续拉取 Docker 镜像十分缓慢，强烈建议安装 Docker 之后配置 [国内镜像加速](mirror.md)。
+对于使用 macOS 的用户，在任务栏点击 Docker for mac 应用图标 -> Perferences... -> Daemon -> Registry mirrors。在列表中填写加速器地址 `https://registry.docker-cn.com`。修改完成之后，点击 `Apply & Restart` 按钮，Docker 就会重启并应用配置的镜像地址了。
+
+### 检查加速器是否生效
+
+配置加速器之后，如果拉取镜像仍然十分缓慢，请手动检查加速器配置是否生效，在命令行执行 `docker info`，如果从结果中看到了如下内容，说明配置成功。
+
+```bash
+Registry Mirrors:
+ https://registry.docker-cn.com/
+```
