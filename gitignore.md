@@ -29,6 +29,7 @@ node_modules
 # Temp File
 *.swp
 *.swa
+*.swo
 
 # github merge file
 *.orig
