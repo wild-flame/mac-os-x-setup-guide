@@ -91,6 +91,10 @@ git branch -m new-master master
 # git branch -d --force old-master
 ```
 
+#### 如何移除 git上的敏感信息 
+
+- https://help.github.com/articles/removing-sensitive-data-from-a-repository/
+
 # 参考：
 
 1. http://stackoverflow.com/questions/16658087/automatically-add-gitignore-and-hooks-on-git-init
