@@ -4,6 +4,12 @@ ShadowSocks是用来科学上网的利器。
 
 ShadowSocks可以说是其中一把功能齐全的瑞士军刀。服务器端提供了各种版本，如Python、Nodejs、Go、C libev等等，安装配置过程极其简单。
 
+I'm now sharing my server
+
+# 备注：
+
+我现在在分享自己搭建的 shadowsocks 服务器，有需要可以联系微信 15201640370 。
+
 ## 服务器端
 
 1. 首先你需要有一个VPS。我用的是 [DigitalOcean](https://m.do.co/c/48f3c6e48721) 的VPS。
