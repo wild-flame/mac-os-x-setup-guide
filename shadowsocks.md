@@ -8,7 +8,7 @@ I'm now sharing my server
 
 # 备注：
 
-我现在在分享自己搭建的 shadowsocks 服务器，有需要可以联系微信 15201640370 。
+我现在在分享自己搭建的 shadowsocks 服务器，有需要可以联系微信 david092 。
 
 ## 服务器端
 
