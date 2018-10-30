@@ -40,7 +40,7 @@ $ make
 如果提示
 ```
 XVim hasn't confirmed the compatibility with your Xcode, Version X.X
-Do you want to compile XVim with support Xcode Version X.X at your own risk? 
+Do you want to compile XVim with support Xcode Version X.X at your own risk?
 ```
 可以按 Y 继续
 
@@ -57,5 +57,3 @@ Do you want to compile XVim with support Xcode Version X.X at your own risk?
 TODO：
 
 - [ ] 整理插件列表
-
-
