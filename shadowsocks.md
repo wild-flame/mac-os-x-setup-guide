@@ -92,6 +92,11 @@ Host *
     ProxyCommand nc -X connect -x 127.0.0.1:1080 %h %p
 ```
 
+## Docker
+
+docker run -d -p 1984:1984 oddrationale/docker-shadowsocks -s 0.0.0.0 -p 1984 -k $SSPASSWORD -m aes-256-cfb
+
+
 # 其他参考资料
 
 * 用 Docker：[30秒部署多用户Shadowsocks服务端](http://www.jianshu.com/p/4e3b54367991/) 

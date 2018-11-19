@@ -44,3 +44,9 @@ node_modules
 ```
 .\#* # Emacs生成的lock文件。
 ```
+
+## 附录
+
+GitHub 已经写好了一份 `.gitignore` 供大家使用，连接如下：
+
+https://github.com/github/gitignore

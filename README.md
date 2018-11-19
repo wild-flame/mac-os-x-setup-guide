@@ -57,6 +57,11 @@ Mac 的电脑很棒，可以称的上艺术品了。但是，对于绝大多数�
     - Noizio
     - Slack
     - Filezila
+    - Maria, HTTrack
+    - 阿里旺旺
+    - Dash
+    - Transmission
+    - Moom
 
 ---
 
@@ -74,4 +79,10 @@ MIT License
 ---
 Contributors: 
 - [wild-flame](http://github.com/wild-flame)
+<<<<<<< HEAD
 - [TerenceLiu98](http://github.com/TerenceLiu98)
+=======
+- [TerenceLiu98](https://github.com/TerenceLiu98)
+    - 提出了 Latex 的拼法应为 LaTeX
+
+>>>>>>> 172528cdb26fb92f097f52a1d9cbf4922f224e28
