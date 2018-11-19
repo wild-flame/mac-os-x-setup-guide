@@ -9,7 +9,7 @@ LaTeX的配置：
     and only builds 32-bit (and thus can't use Homebrew deps on Snow Leopard.)
 
     We recommend using a MacTeX distribution: https://www.tug.org/mactex/
-    
+
 请使用这个网站 MacTex 的发行包来安装：
 <https://www.tug.org/mactex/>
 
@@ -22,7 +22,7 @@ LaTeX的配置：
 - 输出 `.org` 文件至 pdf 或其他格式： `C-c C-e`
 
 
-[^1]:http://orgmode.org/worg/org-tutorials/org-latex-preview.html 
+[^1]:http://orgmode.org/worg/org-tutorials/org-latex-preview.html
 
 
 另见：

@@ -1,4 +1,4 @@
-# *附：疑难杂症等
+# 附：疑难杂症等
 
 ## Battle.net 的地区问题
 
@@ -14,7 +14,7 @@ $ ./Switcher --setregion=US
 
 ## rvm 在 zsh 下出现的环境变量的设置问题
 
-如果你以前安装过 `rvm` 并且通过 `oh-my-zsh` 安装的话，你可能会看到如下的错误信息： 
+如果你以前安装过 `rvm` 并且通过 `oh-my-zsh` 安装的话，你可能会看到如下的错误信息：
 
 ```
 Warning: PATH set to RVM ruby but GEM_HOME and/or GEM_PATH not set, see:
