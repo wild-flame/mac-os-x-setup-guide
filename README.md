@@ -1,11 +1,7 @@
----
-title: Mac OS X 配置指南 | Mac OS X Setup Guide
-sidebar_label: 介绍
----
+# Mac OS X 配置指南 | Mac OS X Setup Guide
 
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/wild-flame/mac-os-x-setup-guide/fork" data-icon="octicon-repo-forked" data-size="large" data-show-count="true" aria-label="Fork ntkme/github-buttons on GitHub">Help edting this book</a>
-
 <br/>
 
 Mac 的电脑很棒，可以称的上艺术品了。但是，对于绝大多数程序员来说，拿到一台新的 Mac 电脑，仍然需要对其进行一定的配置，才能使其进入最好的工作状态。这是一个不断的磨合的过程，最后这台电脑就会变成给你自己定制的一样。然而，一旦更换了电脑或者重新安装了系统后，再对电脑进行配置总是一件头疼的事情。如果直接使用新电脑就工作，会发现其实在工作的途中又要回头去做很多配置。
@@ -86,7 +82,7 @@ Mac 的电脑很棒，可以称的上艺术品了。但是，对于绝大多数�
 
 ---
 
-新版地址：https://wild-flame.github.io/guides
+新版地址：[wild-flame.github.io/guides](https://wild-flame.github.io/guides)
 旧版地址：[mac-setup.wildflame.org](http://mac-setup.wildflame.org/) 
 
 [![GitHub contributors](https://img.shields.io/github/contributors/wild-flame/mac-os-x-setup-guide.svg?style=for-the-badge)](https://github.com/wild-flame/mac-os-x-setup-guide/graphs/contributors)
