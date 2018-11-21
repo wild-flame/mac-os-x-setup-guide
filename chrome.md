@@ -1,4 +1,6 @@
-# Chrome
+---
+title: Chrome
+---
 
 ## 安装 \| Install
 

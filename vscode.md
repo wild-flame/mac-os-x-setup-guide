@@ -1,4 +1,6 @@
-# Visual Studio Code
+---
+title: Visual Studio Code
+---
 
 ## 安装
 

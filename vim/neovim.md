@@ -1,4 +1,6 @@
-# NEOVIM
+---
+title: NEOVIM
+---
 
 Neovim 是 vim 的一个更现代的发行版。 
 

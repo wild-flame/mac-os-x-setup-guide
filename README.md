@@ -1,4 +1,12 @@
-# Mac OS X 配置指南 | Mac OS X Setup Guide 
+---
+title: Mac OS X 配置指南 | Mac OS X Setup Guide
+sidebar_label: 介绍
+---
+
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/wild-flame/mac-os-x-setup-guide/fork" data-icon="octicon-repo-forked" data-size="large" data-show-count="true" aria-label="Fork ntkme/github-buttons on GitHub">Help edting this book</a>
+
+<br/>
 
 Mac 的电脑很棒，可以称的上艺术品了。但是，对于绝大多数程序员来说，拿到一台新的 Mac 电脑，仍然需要对其进行一定的配置，才能使其进入最好的工作状态。这是一个不断的磨合的过程，最后这台电脑就会变成给你自己定制的一样。然而，一旦更换了电脑或者重新安装了系统后，再对电脑进行配置总是一件头疼的事情。如果直接使用新电脑就工作，会发现其实在工作的途中又要回头去做很多配置。
 
@@ -11,46 +19,48 @@ Mac 的电脑很棒，可以称的上艺术品了。但是，对于绝大多数�
 本配置指南创作的主要原则是简洁，对于同时包含多种安装方法的软件优先考虑使用 Homebrew 和命令行来进行安装，其次会选择官网的 dmg 或者 pkg文件，最后才会考虑 App Store，在配置上，尽量遵循最佳实践。但在某些时候，为了方便理解，仍会加入一些必要的说明。
 
 
-# 目录
+## 目录
 
-## 系统
+### 系统
 
-* [系统偏好设置](preference_and_settings/readme.md)
+* [系统偏好设置](preference_and_settings/readme)
 
-## 软件安装以及下载
-* [Aria 2](aria_2/readme.md) 
-* [Homebrew](homebrew.md)
+### 软件安装以及下载
 
-## 后端相关工具
+* [Aria 2](aria_2/readme) 
+* [Homebrew](homebrew)
 
-* [Docker](docker.md)
+### 网路相关工具
 
-## 编程工具
-* [Xcode](xcode.md)
-* [Emacs](emacs.md)
-* [Vim](vim.md)
-  * [emmet-vim](vim/emmet-vim.md)
-  * [neovim](vim/neovim.md)
-* [Git](git.md)
-   * [.gitignore](gitignore.md)
-* [iTerm2](iTerm2/README.md) 
+* [Docker](docker)
 
-## 编程语言相关环境
-* [Python](python.md)
-* [Ruby/Rails](ruby.md)
-* [Node.js](nodejs.md)
+### 编程工具
+* [Xcode](xcode)
+* [Emacs](emacs)
+* [Vim](vim)
+  * [emmet-vim](vim/emmet-vim)
+  * [neovim](vim/neovim)
+* [Git](git)
+   * [.gitignore](gitignore)
+* [iTerm2](iTerm2/README) 
 
-## 科研
-* [Latex](latex.md)
-* [Shadowsocks](shadowsocks.md)
+### 编程语言相关环境
+* [Python](python)
+* [Ruby/Rails](ruby)
+* [Node.js](nodejs)
 
-## 娱乐
+### 科研
+* [Latex](latex)
+* [Shadowsocks](shadowsocks)
 
-* [mpv](mpv.md)
+### 娱乐
 
-## 其他
+* [mpv](mpv)
+* [Chrome](chrome.md)
 
-* [其它常用软件](Others.md)
+### 其他
+
+* [其它常用软件](Others)
     - F.lux
     - Avira（小红伞）
     - SourceTree 
@@ -71,12 +81,15 @@ Mac 的电脑很棒，可以称的上艺术品了。但是，对于绝大多数�
 
 欢迎大家来帮助完善这本书，可以 [fork]( https://github.com/wild-flame/mac-os-x-setup-guide) 本书的源码，提出书中的错误，更新过期的内容，毕竟笔者使用的编程语言也是有限的，希望能够完善并且加入更多的编程语言的配置。（看到错误，就直接提交 issue 吧！）
 
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/wild-flame/mac-os-x-setup-guide/issues" data-icon="octicon-issue-opened" data-size="large" data-show-count="true" aria-label="Issue ntkme/github-buttons on GitHub">Issue</a>
+
+---
 
 本书地址：[mac-setup.wildflame.org](http://mac-setup.wildflame.org/)
 
-MIT License
+[![GitHub contributors](https://img.shields.io/github/contributors/wild-flame/mac-os-x-setup-guide.svg?style=for-the-badge)](https://github.com/wild-flame/mac-os-x-setup-guide/graphs/contributors)
 
----
-Contributors: 
 - [wild-flame](http://github.com/wild-flame)
 - [TerenceLiu98](http://github.com/TerenceLiu98)
+

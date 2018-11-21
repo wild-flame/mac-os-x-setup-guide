@@ -1,4 +1,6 @@
-# MPV
+---
+title: MPV
+---
 
 mpv 是 Mplayer 和 Mplayer2 项目的分支，目前活跃的开发者都转向开发 mpv。它以 ffmpeg 为解码器，可以调用 OS X 平台的硬件加速解码，支持 ass 在内的多种字幕，有高级 OpenGL scale 算法，还支持 lua 扩展脚本。
 
@@ -21,7 +23,7 @@ brew linkapps mpv
 ```
 (注意：由于我们要 linkapp 所以用 brew 安装的时候一定要选择 with-bundle，否则没法链接为可执行的应用程序)
 
-## Reference：
+## Reference
 
 更多高级配置，参见
 

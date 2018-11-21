@@ -1,4 +1,6 @@
-# Emacs
+---
+title: Emacs
+---
 
 ## 安装 | Install
 
@@ -9,7 +11,6 @@ Mac 下面的 emcas 还是有很多不同的版本的，选择使用 [GNU Emacs]
 
 emacs 有一个恼人的特性，就是会生成一些含`#`号的备份文件（不同于类似于 .swp 这样的临时文件，这些备份文件是会一直存在的），如过你觉得这很恼人，请关闭这个功能。
 
-
 ### Flyspell
 
 `Flyspell` 需要 `ispell` 才能正常使用。
@@ -17,12 +18,12 @@ emacs 有一个恼人的特性，就是会生成一些含`#`号的备份文件�
 ```
 $ brew install ispell
 ```
+
 ### Spacemacs
 
 Emacs 推荐使用 [spacemacs](https://github.com/syl20bnr/spacemacs) 作为基础配置。Spacemacs 整个项目还是很不错的，理念简单，一致性高，功能也不弱，项目借鉴了很多 vim 的东西，spcaemacs 巧妙的结合了二者的优点。对于一个 vimer 来说，是使用 Emacs 的不二选择。
 
 *TIPS: 关于 spacemacs 的具体使用，可以查看相关的 [文档 (Documentation)](https://github.com/syl20bnr/spacemacs/blob/d555002308e7ce86161d3d7998e42cdcc5a9800d/doc/DOCUMENTATION.org#emacs- )*。
-
 
 
 #### OS X Layer
@@ -48,7 +49,7 @@ brew install coreutils
 
 - orgmode-mediawiki 
  
-   ```
+```
 (setq dotspacemacs-additional-packages '(ox-mediawiki))
   (add-to-list 'load-path "~/.emacs.d/custom/orgmode-mediawiki")
   (require 'ox-mediawiki)
@@ -64,8 +65,8 @@ brew install coreutils
 ```
 - 自己用的截图函数
 
-    ```
-  (defun my-org-screenshot ()
+```
+(defun my-org-screenshot ()
     "Take a screenshot into a time stamped unique-named file in the
 same directory as the org-buffer and insert a link to this file."
     (interactive)
@@ -88,29 +89,29 @@ same directory as the org-buffer and insert a link to this file."
         (insert (concat "[[./" filename "]]"))
     )
   )
-    ```
+```
 - org-capture的配置
 
-    ```
-  (setq org-capture-templates '(
-                                ("t" "Task" entry (file+headline "~/Dropbox/GTD/inbox.org" "Tasks")
-                                 "** TODO %?\n  %i\n  %a")
-                                ("b" "Book" entry (file+headline "~/Dropbox/GTD/books.org" "Books")
-                                 "** TODO %?\n  %i\n  %a")
-                                ("s" "Someday" entry (file+headline "~/Dropbox/GTD/somedays.org" "Somedays")
-                                 "* %?\nEntered on %U\n  %i\n  %a")
-                                ("w" "Work" entry (file+headline "~/Dropbox/GTD/works.org" "Works")
-                                 "** TODO %?\n  %i\n  %a")
-                                ("j" "Journal" entry (file+datetree "~/org/journal.org")
-                                 "* %?\nEntered on %U\n  %i\n  %a")
-                                ("n" "Note" entry (file+datetree "~/org/notes.org")
-                                 "* %?\nEntered on %U\n  %i\n  %a")
-                                ))
+```
+(setq org-capture-templates '(
+                              ("t" "Task" entry (file+headline "~/Dropbox/GTD/inbox.org" "Tasks")
+                               "** TODO %?\n  %i\n  %a")
+                              ("b" "Book" entry (file+headline "~/Dropbox/GTD/books.org" "Books")
+                               "** TODO %?\n  %i\n  %a")
+                              ("s" "Someday" entry (file+headline "~/Dropbox/GTD/somedays.org" "Somedays")
+                               "* %?\nEntered on %U\n  %i\n  %a")
+                              ("w" "Work" entry (file+headline "~/Dropbox/GTD/works.org" "Works")
+                               "** TODO %?\n  %i\n  %a")
+                              ("j" "Journal" entry (file+datetree "~/org/journal.org")
+                               "* %?\nEntered on %U\n  %i\n  %a")
+                              ("n" "Note" entry (file+datetree "~/org/notes.org")
+                               "* %?\nEntered on %U\n  %i\n  %a")
+                              ))
 ```
 - flyspell 中键的切换
     
-    ```  
-  (eval-after-load "flyspell"
+```  
+(eval-after-load "flyspell"
     '(progn
        (define-key flyspell-mouse-map [down-mouse-3] #'flyspell-correct-word)
        (define-key flyspell-mouse-map [mouse-3] #'undefined)
@@ -120,11 +121,12 @@ same directory as the org-buffer and insert a link to this file."
 ```
 
 - 显示代码行数
+
 ```
-  (global-linum-mode) ; Show line numbers by default
+(global-linum-mode) ; Show line numbers by default
 ```
 
-## Reference: 
+## References
 
 1. [Spacemacs with Python layer](http://www.slant.co/topics/366/viewpoints/13/~python-ides~spacemacs-with-python-layer)
 2. [Fullstack Python - Emacs](http://www.fullstackpython.com/emacs.html)

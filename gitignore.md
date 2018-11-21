@@ -1,5 +1,10 @@
-# .gitignore
+---
+title: 常用 .gitignore
+---
 
+
+## .gitignore
+ 
 这份 `.gitignore` 包含了 Mac 会生成一些特有的文件：
 
 ```

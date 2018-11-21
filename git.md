@@ -1,10 +1,12 @@
-# Git and Github
+---
+title: Git 
+---
 
 没有用过 [Git](http://git-scm.com/) ？
 
 还好意思说自己是程序员? 
 
-# 1. 安装
+## 1. 安装
 
     $ brew install git
 
@@ -17,19 +19,22 @@
 ## 2. 配置
 
 1. 设置用户名和邮箱：
-   ```
+
+```
 $ git config --global user.name "Your Name Here"
 $ git config --global user.email "your_email@youremail.com"
 ```
+
 2. 设定默认的 push 方式：
 
-    ```
+```
 $ git config --global push.default simple    
 ```
 （p.s 如果你搞不清的 simple 和 matching 的区别的话就选这个
 ）
 
-  或者
+或者
+
 ```
 $ git config --global push.default matching
 ```

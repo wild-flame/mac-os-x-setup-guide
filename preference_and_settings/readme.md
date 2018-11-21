@@ -1,4 +1,6 @@
-# 系统偏好设置
+---
+title: 系统偏好设置
+---
 
 系统偏好大概是是所有设置的第一步，新装机的 Mac OS X 总有一些小的细节需要调整。一步一步跟着来吧: D。当然如果觉得麻烦，就直接忽略吧，以后也可以按照自己的喜好来慢慢调整。
 
@@ -10,7 +12,7 @@
 
 把“按键重复”调至 “最快”，并把“重复前延迟”调制“短”或倒数第二格。
 
-![](Keyboard-preference-1.png)
+![](/assets/Keyboard-preference-1.png)
 
 ### 将 F1,F2 设置为标准功能键，而不是亮度调节键
 
@@ -37,7 +39,7 @@
 
 打开“启用拖移”，选择“三指拖移”。
 
-![](preference-drag.png)
+![](/assets/preference-drag.png)
 
 \*老版本 Mac OS X 系统就在 "触控板" 选项里面修改。
 
@@ -45,7 +47,7 @@
 
 打开 “系统偏好设置 —— “触控板” —— “光标与点按”，勾选
 
-![](preference-click.png)
+![](/assets/preference-click.png)
 
 ## \*其他
 

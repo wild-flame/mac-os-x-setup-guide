@@ -1,10 +1,10 @@
-
-# Aria2 - 下载神器
+---
+title: Aria2 - 下载神器
+---
 
 实现百度，迅雷等离线下载。
 
-![](68edf5d71b4c98e2ae34f16be36248df_b.jpg)
-
+![](/assets/aria_2.jpg)
 
 ## 安装 | Install 
 
@@ -76,7 +76,7 @@ file-allocation=prealloc
 默认下载路径的「/Users/xxx/Downloads」可以改为任何你想要的绝对路径。此处写为 Downloads 目录，xxx 请自行替换成你的 Mac 用户名，然后保存，退出编辑器。
 
 
-#### 启动
+### 启动
 
 ```
 $ aria2c --conf-path="/Users/xxxxxx/.aria2/aria2.conf" -D
@@ -84,13 +84,13 @@ $ aria2c --conf-path="/Users/xxxxxx/.aria2/aria2.conf" -D
 
 [TODO*: 配置开机启动]
 
-#### 配置 Web 界面
+### 配置 Web 界面
 
 ```
 $ git clone https://github.com/ziahamza/webui-aria2
 ```
 
-#### 添加到收藏夹
+### 添加到收藏夹
 
 ```
 $ cd webui-aria2 
@@ -98,15 +98,13 @@ $ open index.html
 ```
 然后点击”收藏“按钮把这个页面添加到收藏夹里吧！
 
-#### 下载 Chrome 插件
+### 下载 Chrome 插件
 
 通过网盘下载所需要使用的插件：[下载地址](https://chrome.google.com/webstore/detail/baiduexporter/mjaenbjdjmgolhoafkohbhhbaiedbkno)
 
 **使用方法：**
 
 安装插件后进入百度网盘任意下载页，可以看到“导出下载”，选择“ARIA2 - RPC”即可。
-
-[TODO:截图]
 
 ---
 
@@ -117,4 +115,3 @@ $ open index.html
 * 在 OS X 里通过终端进行文件下载的利器：Aria2 - http://chaishiwei.com/blog/804.html
 * MAC OS里的下载利器 — Aria2！- http://www.coderblog.in/2015/06/the-best-download-app-for-mac-os-aria2.html
 * Mac 上使用百度网盘很烦躁？花点时间配置 aria2 吧 - http://sspai.com/32167
-*

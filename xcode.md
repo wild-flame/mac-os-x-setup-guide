@@ -1,14 +1,17 @@
-# Xcode
+---
+title: Xcode
+---
 
 xcode 是苹果提供的一个开发工具集，类似于微软的 visual studio。
 
 ## 安装
 
-- 其实很多人并不需要使用 xcode 的那么多功能，只是需要它提供的编译环境，那么可以只是安装**Command Line Tools**：
+- 其实很多人并不需要使用 xcode 的那么多功能，只是需要它提供的编译环境，那么可以只是安装**Command Line Tools**:
 
-  ```
+
+```
 $ xcode-select --install
-  ```
+```
 
 - 如果要完整安装的话，可以在 [这里](https://developer.apple.com/xcode/)
 查看并安装Xcode。

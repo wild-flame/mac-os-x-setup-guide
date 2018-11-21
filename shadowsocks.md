@@ -1,4 +1,6 @@
-# Shadowsocks
+---
+title: Shadowsocks
+---
 
 ShadowSocks是用来科学上网的利器。
 

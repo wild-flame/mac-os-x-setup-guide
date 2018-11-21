@@ -1,4 +1,8 @@
-# Node.js
+---
+title: Node.js
+---
+
+## 安装
 
 安装 Node.js 的最佳方式是使用 nvm。
 
@@ -30,9 +34,9 @@ $ nvm alias default 8.1.4
 
 ## 配置
 
-#### 配置`./node_module/.bin` 进环境变量 `$PATH` 里
+### 配置`./node_module/.bin` 进环境变量 `$PATH` 里
 
-方案一：
+#### 方案一：
 
 具体看你自己的配置了，可以加在 `.profile`, `.bash_profile`, etc...
 
@@ -50,12 +54,12 @@ export PATH="$PATH:./node_modules/.bin" # Add local node module to PATH
 
 在文件里即可
 
-方案二：
-
-参见这个答案下面，有一个很好的配置方案，可以避免每次执行都要回到项目的根目录下面。
-
-[How to use package installed locally in node\_modules](http://stackoverflow.com/questions/9679932/how-to-use-package-installed-locally-in-node-modules)
-
+> #### 方案二：
+> 
+> 参见这个答案下面，有一个很好的配置方案，可以避免每次执行都要回到项目的根目录下面。
+> 
+> [How to use package installed locally in node\_modules](http://stackoverflow.com/questions/9679932/how-to-use-package-installed-locally-in-node-modules)
+> 
 ### 如果网速很慢的话
 
 可以配置 cnpm 来下载

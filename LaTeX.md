@@ -1,4 +1,6 @@
-# LaTeX
+---
+title: LaTeX
+---
 
 LaTeX的配置：
 
