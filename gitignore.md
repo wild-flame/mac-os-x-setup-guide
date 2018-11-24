@@ -38,6 +38,9 @@ node_modules
 
 # github merge file
 *.orig
+
+#vscode 
+.vscode
 ```
 
 

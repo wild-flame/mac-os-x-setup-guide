@@ -4,6 +4,8 @@ title: Node.js
 
 ## 安装
 
+> 指南比较旧啦，笔者从 rvm 来的很自然的选用了 nvm，但也有人推荐一个版本管理工具叫做 n-install，https://github.com/tj/n，感兴趣的可以试一下：D
+
 安装 Node.js 的最佳方式是使用 nvm。
 
 cURL:
