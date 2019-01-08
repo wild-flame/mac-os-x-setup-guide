@@ -15,7 +15,7 @@ Homebrew 的安装非常简单。
 
 *** 注意：** 
 
-Homebrew 的一个依赖（Dependency）是 Xcode，但是很多人并不使用 Xcode 的，那么可以只是安装**Command Line Tools**就行了，参见章节 [Xcode - 安装](xcode.md) 。
+Homebrew 的一个依赖（Dependency）是 Xcode，但是很多人并不使用 Xcode 的，那么可以只是安装**Command Line Tools**就行了，参见章节 [Xcode - 安装](xcode) 。
 
 ## 使用
 ```

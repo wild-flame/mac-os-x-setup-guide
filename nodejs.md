@@ -4,9 +4,8 @@ title: Node.js
 
 ## 安装
 
-> 指南比较旧啦，笔者从 rvm 来的很自然的选用了 nvm，但也有人推荐一个版本管理工具叫做 n-install，https://github.com/tj/n，感兴趣的可以试一下：D
-
 安装 Node.js 的最佳方式是使用 nvm。
+
 
 cURL:
 
@@ -23,7 +22,7 @@ $ wget -qO- https://raw.github.com/creationix/nvm/master/install.sh | sh
 安装完成后，重启终端并执行下列命令即可安装 Node.js。
 
 ```
-$ nvm install 4
+$ nvm install 10.5.0 
 ```
 
 或者您也可以下载 [安装程序](https://nodejs.org/en/) 来安装。
@@ -31,7 +30,7 @@ $ nvm install 4
 ### 设置默认的 node 版本
 
 ```bash
-$ nvm alias default 8.1.4
+$ nvm alias default 10.5.0
 ```
 
 ## 配置
@@ -76,5 +75,4 @@ $ npm install -g cnpm
 $ npm install cnpm -g --registry=https://registry.npm.taobao.org
 ```
 
-
-
+> Tips: 也有人推荐一个版本管理工具叫做 [n-install](https://github.com/tj/n)，感兴趣的可以试一下：D，但笔者自己没试过，看上去也没太多人维护。

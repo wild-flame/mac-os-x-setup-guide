@@ -7,7 +7,11 @@ sidebar_label: 介绍
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/wild-flame/mac-os-x-setup-guide/fork" data-icon="octicon-repo-forked" data-size="large" data-show-count="true" aria-label="Fork ntkme/github-buttons on GitHub">Help edting this book</a>
 
+
 <br/>
+
+
+---
 
 Mac 的电脑很棒，可以称的上艺术品了。但是，对于绝大多数程序员来说，拿到一台新的 Mac 电脑，仍然需要对其进行一定的配置，才能使其进入最好的工作状态。这是一个不断的磨合的过程，最后这台电脑就会变成给你自己定制的一样。然而，一旦更换了电脑或者重新安装了系统后，再对电脑进行配置总是一件头疼的事情。如果直接使用新电脑就工作，会发现其实在工作的途中又要回头去做很多配置。
 
@@ -53,6 +57,7 @@ Mac 的电脑很棒，可以称的上艺术品了。但是，对于绝大多数�
 ### 科研
 * [Latex](latex)
 * [Shadowsocks](shadowsocks)
+* [V2ray](V2ray)
 
 ### 娱乐
 
@@ -85,6 +90,7 @@ Mac 的电脑很棒，可以称的上艺术品了。但是，对于绝大多数�
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/wild-flame/mac-os-x-setup-guide/issues" data-icon="octicon-issue-opened" data-size="large" data-show-count="true" aria-label="Issue ntkme/github-buttons on GitHub">Issue</a>
 
+
 ---
 
 新版地址：[wild-flame.github.io/guides](https://wild-flame.github.io/guides) | 旧版地址：[mac-setup.wildflame.org](http://mac-setup.wildflame.org/)
@@ -94,3 +100,13 @@ Mac 的电脑很棒，可以称的上艺术品了。但是，对于绝大多数�
 - [wild-flame](http://github.com/wild-flame)
 - [TerenceLiu98](http://github.com/TerenceLiu98)
 
+---
+
+## 捐赠或感谢
+
+如果你仅仅希望表示感谢，可以点击下面的链接： [SayThanks!](https://saythanks.io/to/wild-flame) 不需要一分钱，但是我会很开心。
+
+[![](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg?style=for-the-badge)](https://saythanks.io/to/wild-flame)
+
+
+<!--iframe src="https://wild-flame.github.io/donate-page-plus/index.html" style="overflow-x:hidden;overflow-y:hidden; border:0xp none #fff; min-height:210px; width:100%;"  frameborder="0" scrolling="no"></iframe-->

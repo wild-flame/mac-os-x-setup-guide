@@ -63,3 +63,27 @@ $ brew install httrack
 ## 11. 【效率】Moom
 
 地址：https://manytricks.com/moom/
+
+## 12. 在 OS X 下写论文有哪些好的软件？
+
+1\. 参考文献管理
+
+参考文献管理Zotero。
+
+------如果题主土豪可以用收费软件用Endnote.
+
+2\. 笔记软件的选择
+
+用Mou啊，国产好软件啊。
+
+------如果你是Geek的话用vim吧。PS：vimwiki记笔记超好用的。
+
+------------如果你是Geek中的Geek的话，就用Emacs吧。org-mode专为记笔记设计。
+
+3\. 学术论文写作
+
+用Latex吧，如何配置 LaTeX: [LaTeX - Mac OS X 配置指南](https://wild-flame.github.io/guides/docs/mac-os-x-setup-guide/LaTeX)
+
+------也可以用Rstudio + pandoc来做。
+
+参见：https://www.zhihu.com/question/27478768/answer/38629950

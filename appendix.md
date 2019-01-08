@@ -54,3 +54,22 @@ There was a problem with the editor 'vi'
 ```
 $ git config --global core.editor /usr/bin/vim
 ```
+
+## dyld: Library not loaded: 
+
+```
+dyld: Library not loaded: /usr/local/opt/gdbm/lib/libgdbm.4.dylib  Referenced from: /usr/local/bin/zsh   
+Reason: image not found
+zsh: trace trap
+```
+
+### 尝试解决办法
+```
+brew install gdbm
+```
+
+如果提示已经安装
+
+```
+brew install gdbm
+```

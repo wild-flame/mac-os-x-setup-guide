@@ -2,11 +2,15 @@
 title: Shadowsocks
 ---
 
+> 最近 ss 被封锁的太严重了，我已经改用 [V2ray](V2ray) 了。我自己有搭好服务器，感兴趣的小伙伴可以联系我分摊费用 wechat: heromartin666
+
 ShadowSocks是用来科学上网的利器。
 
 ShadowSocks可以说是其中一把功能齐全的瑞士军刀。服务器端提供了各种版本，如Python、Nodejs、Go、C libev等等，安装配置过程极其简单。
 
 ## 服务器端
+
+> 服务器端的部署用 docker 更快，可以参考文末 docker 部分。
 
 1. 首先你需要有一个VPS。我用的是 [DigitalOcean](https://m.do.co/c/48f3c6e48721) 的VPS。
 
@@ -85,6 +89,8 @@ $ export http_proxy=http://proxyAddress:port
 $ export ALL_PROXY=socks5://127.0.0.1:1080
 ```
 
+> 也可以使用 proxifier 这个软件
+
 ## 如何让 ssh 走代理
 
 添加这两行到 `~/.ssh/config`
@@ -94,10 +100,13 @@ Host *
     ProxyCommand nc -X connect -x 127.0.0.1:1080 %h %p
 ```
 
+
+
 ## Docker
 
+```
 docker run -d -p 1984:1984 oddrationale/docker-shadowsocks -s 0.0.0.0 -p 1984 -k $SSPASSWORD -m aes-256-cfb
-
+```
 
 # 其他参考资料
 
