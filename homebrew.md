@@ -36,3 +36,26 @@ bin/wget -> ../Cellar/wget/1.16.1/bin/wget
 ```
 
 Homebrew 背后使用的是是 ruby 和 github，所以使用 Homebrew 必须要先配置好 Ruby（其实 Mac 就自带了 ruby ）。
+
+## 遇到问题
+
+
+### 通用问题
+
+```
+$ brew doctor 
+```
+
+即可排查常见的问题
+
+### Permission Denied
+
+```
+Error: Permission denied @ unlink_internal - /usr/local/share/ghostscript/9.16/Resource/CIDFont/HiraKakuPro-W3
+```
+
+解决办法：
+```
+$ sudo chown -R $(whoami) /usr/local
+```
+
